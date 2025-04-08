@@ -1,35 +1,24 @@
-local key = getgenv().script_key
-if not key then
-    return warn("❌ You must define 'script_key' before loading the script.")
-end
+local KeyGuardLibrary = loadstring(game:HttpGet("https://cdn.keyguardian.org/library/v1.0.0.lua"))()
 
-local req = syn and syn.request or http_request or request or fluxus and fluxus.request
-if not req then
-    return warn("❌ Your executor does not support HTTP requests.")
-end
+local trueData = "43c88ab35a86460792a98d13ca3e865d"
+local falseData = "674b33fe1cb741fb88f887ea7dd56770"
 
-local HttpService = game:GetService("HttpService")
-
-local res = req({
-    Url = "https://keyauth.win/api/1.0/",
-    Method = "POST",
-    Headers = {
-        ["Content-Type"] = "application/json"
-    },
-    Body = HttpService:JSONEncode({
-        type = "license",
-        key = key,
-        name = "Quantum",
-        ownerid = "US88FITBZn",
-        version = "1.0"
-    })
+KeyGuardLibrary.Set({
+	publicToken = "c0bf4b311d4c4ea7931b19c484e7d95c",
+	privateToken = "c87038d332f240928a80e13cd8096f9e",
+	trueData = trueData,
+	falseData = falseData,
 })
 
-local data = HttpService:JSONDecode(res.Body)
+-- Check if script_key exists in the environment
+local key = getfenv()[“script_key”] or "invalid_key"
 
-if data.success then
-    print("✅ Welcome, " .. data.info.username)
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/2kemmz/LUAScripts/main/freescripts/Ragblood.lua"))()
+local response = KeyGuardLibrary.validateDefaultKey(key)
+print("Validation result:", response)
+
+if response == trueData then
+	print("Key is valid")
+	print("suck my big dih")
 else
-    warn("❌ Invalid key: " .. data.message)
+	print("Key is invalid")
 end
