@@ -1,1 +1,2760 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local A={"\067\097\050\051\083\065\073\120\089\075\122\105\048\074\061\061";"\114\054\104\110\048\056\104\110\089\090\118\080\089\088\073\099","\099\088\088\117\099\101\048\107\099\104\102\122";"\088\076\053\080\069\100\104\102\086\083\061\061","\065\117\105\068\108\072\061\061","\120\106\117\088\066\104\102\061","\078\055\081\069\048\067\104\068\081\068\104\088\071\115\121\098\097\088\083\061";"\048\065\077\080\071\086\107\110\114\088\099\053\071\083\061\061","\084\116\061\061";"\097\065\052\051\051\069\118\049\078\110\102\054\071\088\081\070\104\072\061\061";"\110\050\055\049\074\090\050\068\057\070\074\061";"\081\067\121\067\107\056\068\112\056\049\072\101\071\070\082\088\072\116\061\061","\118\108\107\076\053\109\068\108\066\084\120\084";"\102\117\080\099\090\110\079\061","\118\070\097\070\087\083\061\061","\108\104\097\117\109\068\103\109\087\054\071\107\076\074\061\061";"\109\056\112\122\066\047\082\084\122\052\100\075\116\110\117\052";"\101\052\084\105\048\112\049\082\048\081\057\115\086\082\106\051\083\101\090\099","\057\048\100\070\117\083\061\061";"\101\086\081\057\067\071\065\048\081\071\121\057\111\088\072\061";"\118\115\116\055\115\065\110\103\107\110\100\084\115\070\068\102";"\108\106\106\111\106\075\101\081\122\115\121\087\056\116\061\061","\071\103\107\067\089\116\061\061";"\108\065\057\057\049\050\078\055\117\047\043\070\121\115\119\104\067\076\055\056\115\090\089\100\055\086\111\107\054\115\109\087\057\090\082\098","\098\081\078\067\083\047\111\073\079\116\100\089\101\089\088\122\056\104\069\088\073\075\085\054\115\104\110\080\049\054\051\109\090\108\083\071\090\119\076\116\043\074\073\103\101\085\072\061";"\114\054\107\107\056\104\121\071\078\088\107\089\118\070\081\117\071\075\066\061","\085\075\080\121\069\054\082\113\051\068\080\087\071\111\097\083\089\104\106\061","\047\121\050\104\053\104\051\065\078\121\051\108\097\084\082\088\077\097\122\113\077\047\074\082\047\056\066\051\079\089\107\113\084\054\075\098\081\119\099\101";"\105\088\082\102\081\112\104\084\085\103\077\078\104\116\061\061","\078\049\106\073\084\115\116\061","\072\115\049\103\097\068\116\101\069\099\082\107\048\086\089\047\072\103\116\061";"\086\108\114\085\080\100\110\061";"\048\065\104\053";"\053\114\071\100\104\097\049\061";"\048\075\116\067\078\111\121\122\107\086\069\047\097\115\079\067\078\115\114\061","\051\086\118\110\114\106\081\099\081\074\061\061","\104\065\068\100\114\065\104\047\079\106\118\099\081\065\104\070\081\065\104\049\079\072\061\061","\115\065\099\070\071\056\052\055\071\072\061\061";"\072\110\107\075\081\049\068\104\072\090\071\103\051\086\071\113\069\049\049\061","\114\088\104\100\048\103\071\099";"\071\054\067\080\081\065\107\066","\089\054\080\080\114\116\061\061";"\114\088\068\053\071\065\077\100","\099\069\048\052\113\109\074\076\086\088\081\074\074\111\103\100\101\075\057\103","\056\085\097\068\118\084\073\051\057\121\043\119\071\120\072\061","\088\081\105\082\105\106\071\085\121\116\061\061","\105\106\048\090\110\052\110\099\069\056\100\113\071\082\068\110\120\065\049\079\071\122\114\061";"\089\087\043\049\076\053\080\116\043\119\049\061","\117\119\108\070\047\080\054\088\066\116\061\061","\097\110\069\103\051\056\071\078\056\086\099\097\107\099\104\100\048\074\061\061";"\118\055\068\106\114\075\107\054\118\111\099\122\084\069\082\047\115\103\066\061";"\048\111\106\061","\067\073\074\084\099\073\073\065\088\102\079\109\048\083\068\106\120\109\108\067\049\080\057\109\082\083\122\050\097\106\089\102\099\086\077\118\119\105\080\104\122\050\043\118\110\106\084\114\097\066\089\111\106\098\075\113\116\082\111\090\100\119\047\097\051\078\052\079\071\068\053\076\057\066\056\087\090\085\047\065\116\121\084\089\122\115\108\117\120\103\068\119\054\087\080\065\049\099\103\049\099\070\097\119\118\048\068\108\069\115\107\089\110\083\087\056\116\115\053\076\043\055\073\078\101\108\120\109\043\051\085\076\052\049\097\108\108\076\071\090\103\084\089\104\110\100\069\043\111\106\106\099\097\122\072\085\088\072\075\073\081\048\073\101\067\047\079\078\052\053\100\103\051\056\080\088\049\110\110\061";"\089\075\099\110\071\072\061\061";"\090\067\077\043\048\088\118\099\085\074\061\061","\109\110\103\090\047\111\099\118\119\074\061\061";"\086\113\084\100\099\048\081\118\087\081\088\110\087\102\049\120\088\051\066\083\052\072\061\061","\100\074\079\113\106\114\109\111\112\097\054\103\106\074\102\061","\090\067\077\100\071\090\118\080\081\065\068\057\048\065\069\061";"\102\087\071\055\072\081\109\109\081\065\100\067\121\048\089\053\084\082\050\073\085\108\067\116","\101\077\097\074\079\070\097\061";"\067\083\053\051\054\103\082\086\080\109\098\049\100\116\061\061";"\115\088\068\100\071\072\061\061","\056\065\072\047\078\083\061\061";"\114\103\118\047\078\056\052\075","\071\088\073\076\048\103\079\061","\078\055\049\112";"\104\056\043\102\048\054\067\082\114\056\068\087\071\049\109\061","\109\052\101\112\114\119\074\043\117\054\117\112\052\072\061\061","\080\054\120\121\054\065\081\057\053\102\074\061";"\048\056\068\110\078\074\061\061","\121\049\116\055\098\116\061\061";"\115\110\100\049\097\104\104\055\085\099\082\051\078\070\099\115\072\099\114\061";"\071\054\068\100\071\072\061\061","\109\088\072\049\111\072\061\061";"\048\111\079\061";"\089\054\077\053\089\054\068\110";"\102\097\115\079\097\057\073\108\081\078\097\061";"\098\057\050\122\054\083\089\061";"\056\047\077\053\080\118\072\073\052\119\074\061","\069\054\104\110\072\054\077\047\071\072\061\061","\081\102\102\114\077\073\122\048\110\068\110\079\113\121\101\050\047\065\076\109\087\074\061\061";"\090\067\077\075\089\083\061\061","\118\054\104\110\069\054\104\047\081\088\099\070\071\072\061\061","\052\113\097\057\088\083\061\061";"\110\070\050\070\073\102\071\055\120\053\089\061";"\076\101\104\101\097\066\073\067\052\083\061\061","\104\051\104\054\069\051\099\087\103\050\087\099\074\108\079\112\097\057\077\066\080\117\108\065\122\085\113\048\077\116\087\054\070\065\078\057\055\057\071\117\121\112\117\085\118\105\074\061";"\071\090\082\047\048\103\079\061","\114\086\082\043\048\075\072\061";"\081\110\070\110\085\056\068\101\097\066\066\061";"\051\099\107\122\115\049\118\099\089\054\077\049\071\072\061\061";"\115\054\073\053\051\090\104\090\081\056\067\111\114\104\082\097\097\049\110\061","\056\113\077\111\116\083\049\119\077\106\121\114\052\071\048\083\114\089\103\113\066\079\105\122\087\116\090\083\052\055\075\072\085\048\089\053\114\079\103\122","\072\104\108\071\109\075\056\068\086\117\081\100\088\103\067\049","\077\049\084\056\073\118\106\119\106\067\048\097\101\089\075\121\119\115\067\119\081\074\061\061";"\070\117\119\047\073\049\088\070\075\054\070\074\076\111\086\105\076\102\051\120\065\104\057\086\110\079\080\113\100\115\074\115\076\111\087\101\054\106\098\115\047\082\105\119\072\083\061\061","\072\105\050\120\104\115\048\116\113\076\089\070\087\111\116\108\084\057\079\110\105\054\072\098\109\043\122\107\082\121\110\078\052\051\099\098\056\081\101\061";"\081\065\068\057\048\065\069\061";"\084\057\116\099\071\087\066\043\084\116\061\061";"\104\086\049\083\048\106\052\055\071\090\068\099\085\068\118\088\056\088\079\061";"\081\065\077\055\081\086\082\043\048\088\114\061","\081\065\077\053\081\056\067\057\071\090\079\061","\114\065\107\080\048\065\083\061";"\111\115\099\089\089\065\121\048\074\087\118\047","\081\105\114\122\082\083\061\061";"\047\057\072\117\117\100\080\051\081\056\082\069\112\080\073\085\099\087\052\050\086\083\061\061";"","\115\065\067\047\056\069\071\106\097\067\081\065\104\110\099\122\069\110\101\061";"\069\077\103\081\053\052\056\067\043\078\049\061","\080\053\086\082\115\074\061\061","\043\109\076\068\103\047\073\106\055\117\050\112\043\074\071\069\074\115\048\080";"\051\054\069\073\051\106\071\065\081\090\066\101\056\065\104\112\085\072\061\061","\115\103\081\053\071\090\082\043\071\074\061\061","\084\077\107\055\053\120\082\084\084\053\118\049\077\068\104\120\089\085\050\119\097\054\102\061","\072\104\121\072\104\088\104\047\114\054\099\076\048\116\061\061";"\081\056\052\083\089\056\107\117","\090\067\077\102\071\056\101\061","\088\082\100\071\086\099\115\097\087\067\122\088\047\050\053\053\082\086\072\071\099\108\105\052\075\082\055\097\108\071\081\053\079\086\079\043\100\116\056\075\107\075\069\086\056\116\061\061";"\121\116\119\105\075\086\049\116\098\076\117\119\076\080\097\099\078\118\072\083\097\083\061\061","\050\077\089\061","\077\053\103\100\109\072\061\061";"\121\118\107\082\070\101\109\065\047\048\098\070";"\097\120\076\074\070\120\120\082\081\072\061\061"}local function K(K)return A[K+(-49128+109610)]end for K,o in ipairs({{-21256+21257,-774422-(-774546)},{-883547+883548,869253-869211};{-1036229-(-1036272),-102084+102208}})do while o[-120012-(-120013)]<o[-913130+913132]do A[o[-41243+41244]],A[o[-88050-(-88052)]],o[-78884+78885],o[960103+-960101]=A[o[284356-284354]],A[o[-262691+262692]],o[149287+-149286]+(308414-308413),o[-705804+705806]-(140935-140934)end end do local K=table.insert local o=string.len local P={b=476787-476777;M=-852124-(-852185);["\048"]=-92999+93026,E=898225-898205;A=928085-928079,x=410945-410886,t=188402-188370,K=-248339-(-248378);O=41772+-41764;w=-1019321+1019384,z=929506+-929491;l=469919-469888;p=-966226-(-966268),o=103681+-103678;J=-478005+478005;a=-410958-(-410970);["\054"]=429894+-429840;H=-921896-(-921912);g=946078-946023;f=455442+-455398,G=-568211-(-568236);R=583469+-583460,r=220795+-220767;T=896984+-896970,h=799621-799600,C=501435+-501382;y=639933+-639932;j=-212504-(-212508),["\049"]=-940419-(-940455),V=-241935+241942;c=-431395-(-431432),["\056"]=-685828+685850;i=-61735-(-61797);v=190139+-190122,F=-1010647+1010682;["\050"]=-140862+140873,N=-664881-(-664907);d=917468+-917423;I=1009352+-1009303;m=195968+-195908,n=-424803+424855,X=-764148+764186;W=-354170-(-354172),["\052"]=990396-990339,["\047"]=-74104+74154;D=300451-300446,["\055"]=-763164-(-763215);s=-571875+571894,["\051"]=-304047-(-304065),L=377617-377570;u=-445642-(-445685),S=-311036+311084,q=521784+-521726;["\057"]=201899+-201865;U=289169+-289139;B=-163082-(-163122);Q=988975+-988946;["\053"]=-699251-(-699297),e=-53196-(-53252);k=-79853+79866;P=-143110+143143;["\043"]=53062+-53021;Z=-577693-(-577716);Y=-103192-(-103216)}local Y=math.floor local b=type local R=A local V=string.char local L=table.concat local O=string.sub for A=487164+-487163,#R,669803-669802 do local h=R[A]if b(h)=="\115\116\114\105\110\103"then local b=o(h)local N={}local D=-549419-(-549420)local l=-179740+179740 local y=-992467-(-992467)while D<=b do local A=O(h,D,D)local o=P[A]if o then l=l+o*(427295-427231)^((971198+-971195)-y)y=y+(946118+-946117)if y==651060+-651056 then y=104756+-104756 local A=Y(l/(503244+-437708))local o=Y((l%(-64596+130132))/(169922-169666))local P=l%(-930879+931135)K(N,V(A,o,P))l=228491+-228491 end elseif A=="\061"then K(N,V(Y(l/(866054-800518))))if D>=b or O(h,D+(754715-754714),D+(587132-587131))~="\061"then K(N,V(Y((l%(-35490-(-101026)))/(566882-566626))))end break end D=D+(-972083+972084)end R[A]=L(N)end end end return(function(A,P,Y,b,R,V,L,G,H,m,y,X,N,D,O,Q,r,e,o,l,h)h,H,o,l,O,D,Q,r,X,e,m,G,N,y={},function(A,K)local P=l(K)local Y=function()return o(A,{},K,P)end return Y end,function(o,Y,b,R)local U,S,t,Aj,r,Rj,c,u,M,j,E,T,B,k,Yj,Pj,Z,y,f,a,x,w,Vj,F,J,g,Kj,Lj,oj,W,v,z,D,n,l,i,h,L,bj,d,s,q,I,C,p while o do if o<-162377+8159961 then if o<5623482-1021161 then if o<2127673-(-804336)then if o<1693782-(-556810)then if o<-490988+1595552 then if o<-800830+1837760 then if o<129934+776918 then J=K(-307625-(-247178))q=A[J]L=q o=5861522-534563 else o=A[K(728141+-788508)]L={D}end else o=true o=5993375-956062 end else if o<204865+949656 then if o<203402+914751 then O[D]=t u=O[a]B=-893984-(-893985)S=u+B x=p[S]d=k+x x=-275013+275269 o=d%x k=o o=615949+14673632 S=O[U]x=g+S S=1014552+-1014296 d=x%S g=d else d=O[D]o=d and 808297+9987066 or 2110992-994592 t=d end else F=J n=K(-352430+292055)w=A[n]n=K(-16301-44085)o=9287600-181464 c=w[n]w=c(h,F)c=O[b[1034300+-1034294]]n=c()j=w+n E=j+W j=-366516-(-366772)z=E%j j=l[D]W=z n=-832998-(-832999)w=W+n c=y[w]E=j..c l[D]=E F=nil end end else if o<2291045-(-446726)then if o<2278515-(-157595)then if o<2128882-(-237354)then o=true o=o and 12083231-(-393312)or-950927+3950152 else o=663512+4927265 end else W=O[r]L=W o=6636596-(-562318)end else if o<-614029+3507676 then o=d L=t o=991699+4810032 else o=true f=K(-11669-48791)h=Y l=K(-326389-(-266014))D=N()O[D]=o L=A[l]l=K(-524224-(-463825))y=N()o=L[l]l=N()O[l]=o o=m(696281+6207298,{})r=N()O[y]=o o=false O[r]=o W=A[f]F=e(-477838+4150277,{r})f=W(F)L=f o=f and 2113420-(-383100)or 313238+6885676 end end end else if o<3992233-324428 then if o<553963+2904853 then if o<-641600+3756214 then if o<-457388+3411344 then u=-358363-(-358365)S=p[u]u=O[M]x=S==u t=x o=-602078+3467889 else o=A[K(-65809+5400)]L={}end else W=nil o=-362527+1336239 y=nil f=nil end else if o<744106+2878833 then p=590100+2608938107818 M=11319588802725-(-672754)o=A[K(-131143+70692)]i=K(350187+-410661)I=K(657474-717950)s=A[i]a=D(I,M)U=l[a]I=12368240139922-428051 a=K(65350-125708)i=s(U)U=D(a,I)i=l[U]S=25945952951303-945365 M=K(240435-300796)I=D(M,p)a=l[I]p=K(637906-698271)x=58253+22205515023575 M=D(p,x)I=l[M]x=K(-145966+85551)s=K(106195+-166554)p=D(x,S)M=l[p]u=15107107786299-(-707903)S=K(-840918+780558)x=D(S,u)s=W[s]p=l[x]x=-1016785-(-1016788)U={[a]=y;[I]=M,[p]=x}s=s(W,i,U)s=false L={s}else f=not W l=l+r D=l<=y D=f and D f=l>=y f=W and f D=f or D f=15369157-(-864731)o=D and f D=15010764-533480 o=o or D end end else if o<2909717-(-1034712)then if o<-395283+4137254 then if o<3838322-165299 then L={}o=true O[b[388722-388721]]=o o=A[K(264488+-324951)]else o=-927680+8264925 end else L=-63481+8156880 D=K(-140254+79844)l=-561932+8693898 h=D^l o=L-h L=K(433100-493472)h=o o=L/h L={o}o=A[K(718976-779377)]end else if o<4056633-(-158779)then o=A[K(-75896-(-15463))]l=K(994703+-1055168)D=A[l]l=K(20376+-80776)h=D[l]l=O[b[1027196+-1027195]]D={h(l)}L={P(D)}else O[D]=c o=O[D]o=o and-569743+4272197 or-714756+1772966 end end end end else if o<6028990-(-334844)then if o<4795476-(-506763)then if o<500602+4540547 then if o<3994661-(-1015923)then if o<-384983+5109129 then U=K(94093-154530)a=453109395775-438381 i=D(U,a)s=l[i]E=true j=g[s]F=j o=10813804-(-784153)f=E else D=O[b[-399807-(-399809)]]l=311510-311257 h=D*l D=595164+10885925011185 L=h+D h=35184372333152-244320 o=L%h O[b[588927-588925]]=o D=-292542-(-292543)o=555706+13168201 h=O[b[385048-385045]]L=h~=D end else o=e(2737089-357555,{y})w={o()}o=A[K(-657429-(-597010))]L={P(w)}end else if o<60108+5222673 then o=2925577-561851 else U=K(-725266-(-664826))g=K(-878329-(-817857))g=r[g]g=g(r,z)a=147257+21855473510536 i=D(U,a)s=l[i]j=g[s]s=true E=j==s o=E and 4481302-(-227285)or 7381963-984160 end end else if o<4881814-(-957204)then if o<653815+4980938 then if o<4807442-(-747716)then J=-280339+280342 k=928356-928291 q=N()O[q]=L o=O[f]L=o(J,k)n=K(-565507+505045)o=-402492+402492 J=N()O[J]=L k=o o=811548+-811548 z=K(-895484-(-835024))L=A[z]E=Q(4701842-907107,{})z={L(E)}g=o o={P(z)}L=569998+-569996 z=o o=z[L]E=o L=K(-72881+12420)o=A[L]j=O[l]w=A[n]n=w(E)w=K(-687057-(-626593))c=j(n,w)j={c()}L=o(P(j))j=N()O[j]=L c=O[J]w=c L=-487676+487677 c=-264651+264652 n=c c=-1044752+1044752 o=8029996-(-226443)s=n<c c=L-n else o=true o=o and-280526+8370289 or 16270748-615207 end else o=15539456-249875 O[D]=L end else if o<6099252-151378 then o=O[b[-370366+370373]]o=o and 673980+5546864 or 326329+9901308 else h=K(-758303+697828)o=A[h]D=O[b[-154029-(-154037)]]l=-749422+749422 h=o(D,l)o=-601464+10829101 end end end else if o<7967053-769230 then if o<6128568-(-815023)then if o<-795764+7660200 then if o<5673298-(-723176)then o={}J=442384+-442383 O[b[-508198+508200]]=o L=O[b[737577+-737574]]F=K(624305-684680)f=-838788+839043 y=L r=35184371897325-(-191507)L=D%r O[b[-107043+107047]]=L W=D%f f=400385+-400383 r=W+f O[b[968783-968778]]=r f=A[F]F=K(719543+-779950)W=f[F]f=W(h)W=K(928398-988854)l[D]=W k=J W=835444-835346 q=f J=-237920+237920 g=k<J o=930009+8176127 F=-139877-(-139878)J=F-k else I=K(-17432+-42962)M=12447509751239-(-520413)a=D(I,M)U=l[a]i=g[U]I=K(927680+-988091)M=21970261657884-(-1023706)a=D(I,M)U=l[a]s=i==U o=s and 3725298-126750 or 9831029-321064 end else L=K(-353455-(-292980))o=A[L]h=K(205677+-266080)L=o(h)L={}o=A[K(-883467-(-823012))]end else if o<79070+6954561 then o=L and 12262538-(-240671)or 5024636-(-844386)else U={}E={}j=N()k=nil s=H(-265915+8970323,{j;q,J;r})r=G(r)F=nil Z=K(-646548-(-586110))W=nil O[j]=E E=N()O[E]=s s={}i=N()I=K(-524619-(-464234))O[i]=s s=A[Z]M=O[i]f=nil y=nil p=K(-565185+504804)x=nil a={[I]=M,[p]=x}Z=s(U,a)l=Z s=X(12337331-59872,{i,j;g,q,J,E})z=nil F=K(-1052329-(-991909))z=16605405798857-(-474219)i=G(i)r=K(240238-300604)j=G(j)g=G(g)D=s s=1013845+33163129684989 J=G(J)E=G(E)i=K(-431748-(-371303))k=17485046935851-(-683683)J=26631534954855-530678 q=G(q)q=12498169616915-(-179368)y=A[r]f=D(F,q)g=K(-1070782-(-1010374))W=l[f]r=K(-636388+575908)r=y[r]q=K(826033-886404)r=r(y,W)W=K(-113937-(-53571))B=114715654275-(-214962)y=A[W]F=D(q,J)f=l[F]W=K(-291393+230913)W=y[W]W=W(y,f)q=-837289+3981993758183 J=K(919381+-979838)F=K(-455326-(-394933))j=440583+26002132284997 f=D(F,q)y=l[f]q=D(J,k)U=1011164+9260342305532 F=l[q]E=23697681559818-(-834065)k=D(g,z)J=l[k]f=K(-775470+715111)z=K(-109481-(-49113))f=W[f]g=D(z,E)k=l[g]E=K(411728+-472194)z=D(E,j)M=K(932030-992489)j=K(613427+-673797)g=l[z]E=D(j,s)z=l[E]E=-353128+353133 q={[J]=y,[k]=g,[z]=E}f=f(W,F,q)k=-917458+1741870973693 f=false J=K(-1049871-(-989415))z=950767+27979572670710 g=15439152864192-(-557141)q=D(J,k)k=K(125849-186285)F=l[q]p=1220503666517-539933 J=D(k,g)q=l[J]J=K(1011180+-1071557)g=K(26341-86780)u=K(-133345+72949)A[J]=q k=D(g,z)J=l[k]z=K(897171+-957544)k=K(-317811+257361)A[k]=J E=4803941360678-(-369815)g=D(z,E)z=K(871800-932166)k=l[g]g=K(-130528-(-70080))A[g]=k g=A[z]s=D(i,U)U=K(151196+-211573)j=l[s]i=A[U]z=K(-333729+273325)z=g[z]I=D(M,p)a=l[I]p=K(-490802-(-430352))M=A[p]S=D(u,B)x=l[S]u=K(50183-110631)S=A[u]p=x..S I=M..p U=a..I s=i..U E=j..s s=K(-623540-(-563088))z=z(g,E)i=7145036850157-890606 j=D(s,i)E=l[j]g=z==E o=g and 881861+10006766 or-926567+6215261 end end else if o<6658580-(-767012)then if o<7074648-(-316096)then if o<-518587+7738225 then W=L f=K(465406-525775)L=A[f]F=K(-385315+324850)g=K(-201195-(-140730))f=K(-1044354-(-983957))o=L[f]f=N()O[f]=o L=A[F]F=K(723186-783549)o=L[F]J=o k=A[g]F=o o=k and 6814873-(-630034)or 14266228-1042701 q=k else z=nil j=G(j)W=nil r=G(r)F=nil f=G(f)l=G(l)f=K(545286-605655)z={}k=nil l=nil q=G(q)J=G(J)j=19134-18878 y=G(y)E=nil D=G(D)g=nil D=nil W=K(-891341-(-830972))r=A[W]W=K(-601044+540670)y=r[W]r=N()O[r]=y W=A[f]f=K(-698576+638179)y=W[f]F=K(456442+-516907)f=A[F]o=12642031-13020 F=K(-751124-(-690724))E=532505+-532504 q=K(52318-112693)W=f[F]F=A[q]J=N()q=K(-249081+188683)s=j f=F[q]F=552168+-552168 g=N()j=714663+-714662 q=N()O[q]=F F=-30283-(-30285)O[J]=F k={}F={}O[g]=k i=j k=-670650-(-670650)j=15864-15864 Z=i<j j=E-i end else j=#z s=786231-786231 E=j==s o=E and-1017420+8164724 or 894700+10879972 end else if o<6767358-(-748851)then o=12447809-(-775718)z=K(-567406-(-506941))g=A[z]z=K(-769451-(-709004))k=g[z]q=k else l=685343+-685342 D=O[b[-629201-(-629204)]]h=D~=l o=h and 16982473-537624 or-376196+14100103 end end end end end else if o<13032920-726519 then if o<10289627-667633 then if o<8036069-(-658353)then if o<477136+7652724 then if o<7828739-(-263689)then if o<-189717+8281424 then L=K(-495732+435368)h=K(-37532+-22856)o=A[L]L=A[h]h=K(187471-247859)A[h]=o h=K(-614446+554082)A[h]=L o=6468514-877737 h=O[b[-611953+611954]]D=h()else s=K(-135636+75272)o=A[s]s=K(468321-528709)A[s]=o o=6161962-1047052 end else o=1056548-82836 end else if o<-374540+8556278 then o=-228177+12857188 E=j U=E z[E]=U E=nil else i=not s c=c+n L=c<=w L=i and L i=c>=w i=s and i L=i or L i=-293444+10166496 o=L and i L=10769997-(-654215)o=o or L end end else if o<10129463-740787 then if o<-573755+9630064 then if o<8132428-(-742213)then h=O[b[-448079-(-448080)]]L=#h h=-1039056+1039056 o=L==h o=o and 4888708-77508 or 2938970-(-1029336)else n=K(501432-561894)o=A[n]i=K(420688+-481076)s=A[i]n=o(s)o=K(9692+-70056)A[o]=n o=5691539-576629 end else z=not g J=J+k F=J<=q F=z and F z=J>=q z=g and z F=z or F z=585314+1403192 o=F and z F=-448994+3575704 o=o or F end else if o<864022+8637259 then D=K(326602-387030)l=11520364-(-565702)h=D^l L=5626512-(-511235)o=L-h L=K(-12637+-47739)h=o o=L/h L={o}o=A[K(-478278+417864)]else p=13652678063031-662242 i=K(985993+-1046467)s=A[i]M=K(-577505-(-517027))x=K(985325+-1045709)I=D(M,p)a=l[I]S=29927944783245-(-143587)p=D(x,S)M=l[p]I=g[M]U=a..I i=s(U)s=false o=A[K(-666499+606109)]L={s}end end end else if o<11948144-772795 then if o<11531864-819391 then if o<9241883-(-1037561)then if o<9616370-(-499656)then i=N()Z=K(627522+-687891)O[i]=c L=A[Z]Z=K(-34465-25932)o=L[Z]U=277535+-277435 B=-1016095+1016095 Z=737627-737626 L=o(Z,U)M=292700-292699 Z=N()O[Z]=L o=O[f]p=829400-829398 a=744905-744650 U=117055-117055 L=o(U,a)U=N()O[U]=L o=O[f]T=142046+-132046 x=K(-750531-(-690069))a=-704344+704345 I=O[Z]L=o(a,I)a=N()O[a]=L L=O[f]I=L(M,p)L=859946+-859945 o=I==L I=N()L=K(-746529+686065)O[I]=o p=K(-22417+-38014)d=A[x]o=K(-565563-(-505146))S=O[f]u={S(B,T)}o=E[o]x=d(P(u))d=K(388182+-448613)t=x..d M=p..t o=o(E,L,M)M=N()O[M]=o p=K(664508+-724968)t=m(16561870-142500,{f;i,J,l;D;j;I,M;Z;a,U;q})L=A[p]p={L(t)}o={P(p)}p=o o=O[I]o=o and-47763+16093288 or 1987803-869172 else o={}h=o l=O[b[803108-803099]]D=487800-487799 y=l l=-381050+381051 o=-840962+4470990 r=l l=626446-626446 W=r<l l=D-r end else S=-921966+24987067940577 p=629512+21032043187001 T=22252547063331-120233 Aj=K(790760-851151)u=648507+12925040734791 M=K(603585+-664029)I=D(M,p)a=l[I]x=K(-420813+360407)B=K(-1093513-(-1033059))p=D(x,S)C=25101782929580-41732 S=K(600048-660483)M=l[p]x=D(S,u)p=l[x]u=D(B,T)S=l[u]T=D(Aj,C)B=l[T]u=s[B]x=S..u T=-995865+20070078338714 U=K(-186862-(-126503))B=K(439862+-500291)u=D(B,T)S=l[u]o=A[K(614607-675012)]u=10460+-10455 U=W[U]I={[M]=y;[p]=x,[S]=u}U=U(W,a,I)U=false L={U}end else if o<428547+10417519 then o=-807801+1924201 x=75321+-75320 d=p[x]t=d else i=K(805873-866343)U=-421069+5340807575172 a=1400845857197-(-250079)E=K(-465114-(-404640))p=452426+9080325597498 g=A[E]s=D(i,U)j=l[s]E=g(j)U=K(201560+-261939)i=31921903962814-118958 s=K(751787+-812255)j=D(s,i)E=l[j]I=12573363717091-(-725755)i=D(U,a)a=K(-458136-(-397711))M=214503+21726104887710 s=l[i]g=K(-288886+228527)U=D(a,I)I=K(-278256+217844)i=l[U]a=D(I,M)g=W[g]U=l[a]M=K(-671192-(-610830))I=D(M,p)a=l[I]I=-121349-(-121352)o=A[K(-855622-(-795209))]j={[s]=y,[i]=U;[a]=I}g=g(W,E,j)g=false L={g}end end else if o<11484363-(-168768)then if o<11289514-(-247843)then if o<840112+10507748 then O[b[-390644+390649]]=L o=38178+5830844 h=nil else w=O[D]o=w and-558199+14763598 or 820255+3425528 c=w end else I=K(-775941-(-715492))Rj=20183125444489-172755 p=30258083368447-(-321803)B=18441255272849-57350 i=K(768962+-829436)s=A[i]M=32592155597435-(-532685)oj=857595+28236841426273 a=D(I,M)U=l[a]C=K(560613+-620993)i=s(U)M=K(-91818+31351)i=K(335291-395657)s=A[i]I=D(M,p)a=l[I]bj=K(-119411-(-59016))p=K(84650-145027)Kj=K(-643020+582594)M=A[p]u=K(-855457+795016)v=172854+23409916577631 S=D(u,B)x=l[S]B=K(254240+-314690)u=A[B]i=K(-704976+644572)Aj=D(C,v)T=l[Aj]v=K(355356+-415758)C=A[v]Pj=D(Kj,oj)oj=K(595520-655968)Yj=l[Pj]Kj=A[oj]Vj=D(bj,Rj)Lj=l[Vj]oj=Lj..F Pj=Kj..oj i=s[i]v=Yj..Pj Aj=C..v B=T..Aj S=u..B p=x..S I=M..p x=873517+3664697193085 p=K(653164-713641)U=a..I i=i(s,U)s=K(491170-551642)s=r[s]s=s(r,i)M=D(p,x)I=l[M]a=s[I]I=false U=a==I o=U and 448989+10101242 or-154023+13641775 end else if o<12765321-728857 then s=#z j=-188597-(-188598)E=y(j,s)j=W(z,E)U=737219+-737218 s=O[g]Z=j-U o=327188+7075564 i=f(Z)E=nil s[j]=i j=nil else D=Y[-553896-(-553898)]h=Y[460925+-460924]o=O[b[-73714+73715]]l=o o=l[D]o=o and 8321014-191760 or-791634+7183519 end end end end else if o<-916033+15341908 then if o<-646624+13955200 then if o<13278536-712485 then if o<12734628-254560 then if o<916999+11481949 then j=#z s=1010111+-1010111 E=j==s o=-435247+12209919 else o=O[f]s=38999+-38993 n=941476+-941475 w=o(n,s)o=K(-170141+109777)A[o]=w s=K(-616263-(-555899))n=A[s]s=-828108-(-828110)o=n>s o=o and-419041+9329577 or 7212121-(-879844)end else L=K(337134-397595)o=A[L]h=O[b[548009-548005]]q=m(9978479-513423,{})y=K(-237479+177017)F=K(326518-386978)l=A[y]f=A[F]F={f(q)}f=-8834-(-8836)W={P(F)}r=W[f]y=l(r)l=K(-640120+579656)D=h(y,l)h={D()}L=o(P(h))D=O[b[-507459-(-507464)]]h=L o=D and 15760167-808715 or 180389+11159198 L=D end else if o<12497376-(-295102)then U=not Z j=j+i E=j<=s E=U and E U=j>=s U=Z and U E=U or E U=9131461-999037 o=E and U E=307890+12065948 o=o or E else o=J o=q and 4290844-(-1036115)or-583826+1381968 L=q end end else if o<-519132+14482004 then if o<13672971-(-20142)then if o<13784590-288400 then p=460281+27593353636920 x=K(-719231-(-658797))T=8381048233537-593667 L={}u=21470922641830-(-808296)M=K(-617298+556915)I=D(M,p)S=-767022+21839315409895 a=l[I]p=D(x,S)S=K(918992-979450)M=l[p]x=D(S,u)B=159897+4982346274935 U=K(-730962-(-670603))u=K(-546685+486269)U=W[U]p=l[x]i=nil S=D(u,B)x=l[S]B=K(692564-753037)u=D(B,T)S=l[u]u=11052-11047 I={[M]=y,[p]=x,[S]=u}u=30551249574760-74710 S=K(605118-665505)U=U(W,a,I)M=K(-1043779-(-983413))B=K(-886929+826476)a=K(313133-373565)U=A[a]I=A[M]x=D(S,u)p=l[x]x=true S=K(923690+-984094)S=I[S]M={S(I,p,x)}a=U(P(M))U=a()p=K(22505-82887)S=-556949+7814388239819 x=540686+26837819551939 a=K(-182466+121992)U=A[a]M=D(p,x)I=l[M]a=U(I)p=K(-747389-(-687011))a=K(564230-624704)x=8834156191169-(-406096)U=A[a]M=D(p,x)I=l[M]x=K(-690422-(-630004))T=13623710870205-184821 a=U(I)a=K(745459+-805933)U=A[a]p=D(x,S)M=l[p]u=D(B,T)B=K(265379+-325771)g=nil T=71599+20153746001145 S=l[u]x=s[S]u=D(B,T)S=l[u]B=K(-928475+868033)p=x[S]I=M..p a=U(I)a=K(-979267+918793)T=16232649223763-(-159539)S=267179+20182627127563 x=K(-787634-(-727211))U=A[a]p=D(x,S)M=l[p]u=D(B,T)S=l[u]x=s[S]T=7174889629721-563980 B=K(804841+-865284)u=D(B,T)S=l[u]o=A[K(-371669+311239)]p=x[S]I=M..p a=U(I)a=K(271520+-331994)x=K(-692265+631796)z=nil y=nil S=962669+10944206332795 U=A[a]p=D(x,S)B=K(481196-541617)T=31339757080338-(-813551)M=l[p]u=D(B,T)T=20827566730011-263481 S=l[u]B=K(-774007-(-713583))x=s[S]u=D(B,T)S=l[u]p=x[S]I=M..p a=U(I)x=K(729458-789880)T=28747542940265-1021471 a=K(-97366+36892)W=nil B=K(-90373+29894)S=496616+5687779620464 U=A[a]F=nil p=D(x,S)M=l[p]u=D(B,T)S=l[u]T=759620+15901277291944 B=K(-20408+-40019)x=s[S]r=nil u=D(B,T)D=nil S=l[u]l=nil p=x[S]I=M..p f=nil a=U(I)s=nil else D=O[b[624945+-624943]]l=O[b[-601833+601836]]h=D==l o=5951081-(-1017454)L=h end else D=O[b[907149-907146]]l=682282+-682118 h=D*l D=-868636-(-868893)L=h%D o=7773342-(-37084)O[b[710093-710090]]=L end else if o<792025+13520386 then o=816292+3429491 w=k==g c=w else d=o u=272362+-272361 S=p[u]u=false x=S==u t=x o=x and-470876+3413041 or-850043+3715854 end end end else if o<15022700-(-626015)then if o<44245+14683371 then if o<-533444+15115783 then if o<14715986-158133 then o=O[b[468602+-468592]]D=O[b[1034515+-1034504]]h[o]=D o=O[b[-370424+370436]]D={o(h)}L={P(D)}o=A[K(-738122+677733)]else o=2436+2361290 end else o=true o=o and 13514156-(-1047136)or 5425923-388610 end else if o<277179+14871384 then l=O[b[-884287-(-884293)]]o=-811987+12151574 D=l==h L=D else i=G(i)M=G(M)o=7860928-(-395511)p=nil a=G(a)U=G(U)Z=G(Z)I=G(I)end end else if o<594527+15818734 then if o<15906008-(-298096)then if o<-162859+16200814 then L={}o=A[K(995062+-1055533)]else t=O[D]L=t o=t and 14053443-(-317580)or 144803+5656928 end else o=O[b[1000186-1000185]]q=491500+-491245 F=1045869+-1045869 D=l f=o(F,q)o=-190065+3820093 h[D]=f D=nil end else if o<15550149-(-888439)then D=O[b[-392459-(-392460)]]y=206501+-206500 r=-65152-(-65154)l=D(y,r)D=-498624-(-498625)h=l==D L=h o=h and-48913+7017448 or 13656120-76296 else D=O[b[153130-153127]]l=942345+-942313 h=D%l y=O[b[127322+-127318]]k=966008+-965995 q=-459599-(-459601)f=O[b[-540820-(-540822)]]E=O[b[784009-784006]]z=E-h E=-989377-(-989409)g=z/E J=k-g F=q^J W=f/F r=y(W)y=-838393+4295805689 o=315688+3652618 l=r%y r=576983+-576981 y=r^h D=l/y F=-282942-(-282943)y=O[b[732906+-732902]]f=D%F F=-708429+4295675725 W=f*F h=nil r=y(W)y=O[b[-493845-(-493849)]]W=y(D)l=r+W f=-729898+795434 r=815359+-749823 y=l%r q=830226+-829970 W=l-y r=W/f f=182157-181901 W=y%f F=y-W f=F/q k=319748+-319492 q=-500428-(-500684)y=nil F=r%q J=r-F q=J/k D=nil l=nil r=nil J={W,f;F;q}O[b[279324+-279323]]=J q=nil F=nil W=nil f=nil end end end end end end end o=#R return P(L)end,function(A)for K=-573760-(-573761),#A,-406749+406750 do h[A[K]]=h[A[K]]+(1004388-1004387)end if Y then local o=Y(true)local P=R(o)P[K(-550985-(-490600))],P[K(312840+-373321)],P[K(-979845+919399)]=A,y,function()return-19856-197898 end return o else return b({},{[K(433979-494460)]=y;[K(-730190-(-669805))]=A;[K(214914-275360)]=function()return 499693-717447 end})end end,{},-256024-(-256024),function(A,K)local P=l(K)local Y=function(Y,b)return o(A,{Y,b},K,P)end return Y end,function(A,K)local P=l(K)local Y=function(...)return o(A,{...},K,P)end return Y end,function(A,K)local P=l(K)local Y=function(Y,b,R,V,L,O)return o(A,{Y,b;R;V;L;O},K,P)end return Y end,function(A,K)local P=l(K)local Y=function(Y,b,R,V,L)return o(A,{Y,b;R,V;L},K,P)end return Y end,function(A,K)local P=l(K)local Y=function(Y)return o(A,{Y},K,P)end return Y end,function(A)h[A]=h[A]-(-1040694+1040695)if-170153-(-170153)==h[A]then h[A],O[A]=nil,nil end end,function()D=(-792523-(-792524))+D h[D]=-102485-(-102486)return D end,function(A)local K,o=378446+-378445,A[261505+-261504]while o do h[o],K=h[o]-(-50214-(-50215)),K+(-383774-(-383775))if h[o]==393124-393124 then h[o],O[o]=nil,nil end o=A[K]end end return(r(2530007-(-371370),{}))(P(L))end)(getfenv and getfenv()or _ENV,unpack or table[K(-532296+471849)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local HttpService = game:GetService("HttpService")
+local StarterGui = game:GetService("StarterGui")
+local LuaName = "Quantum Keysystem"
+
+StarterGui:SetCore("SendNotification", {
+	Title = LuaName,
+	Text = "Intializing Authentication...",
+	Duration = 5
+})
+
+local initialized = false
+local sessionid = ""
+
+Name = "Quantum" 
+Ownerid = "US88FlTBzn" 
+APPVersion = "1.0"    
+
+local req = game:HttpGet('https://keyauth.win/api/1.1/?name=' .. Name .. '&ownerid=' .. Ownerid .. '&type=init&ver=' .. APPVersion)
+
+if req == "KeyAuth_Invalid" then 
+   print(" Error: Application not found.")
+
+   StarterGui:SetCore("SendNotification", {
+	   Title = LuaName,
+	   Text = " Error: Application not found.",
+	   Duration = 3
+   })
+
+   return false
+end
+
+local data = HttpService:JSONDecode(req)
+
+if data.success == true then
+   initialized = true
+   sessionid = data.sessionid
+elseif (data.message == "invalidver") then
+   print(" Error: Wrong application version..")
+
+   StarterGui:SetCore("SendNotification", {
+	   Title = LuaName,
+	   Text = " Error: Wrong application version..",
+	   Duration = 3
+   })
+
+   return false
+else
+   print(" Error: " .. data.message)
+   return false
+end
+
+print("\n\n Licensing... \n")
+local req = game:HttpGet('https://keyauth.win/api/1.1/?name=' .. Name .. '&ownerid=' .. Ownerid .. '&type=license&key=' .. License ..'&ver=' .. APPVersion .. '&sessionid=' .. sessionid)
+local data = HttpService:JSONDecode(req)
+
+
+if data.success == false then 
+    StarterGui:SetCore("SendNotification", {
+	    Title = LuaName,
+	    Text = " Error: " .. data.message,
+	    Duration = 5
+    })
+
+    return false
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = LuaName,
+	Text = " Successfully Authorized :)",
+	Duration = 5
+})
+
+
+local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+local Window = Rayfield:CreateWindow({
+    Name = "Quantum V3.5 | Greenville",
+    Icon = 0, 
+    LoadingTitle = "Quantum | Greenville",
+    LoadingSubtitle = "by 2kemmz",
+    Theme = "DarkBlue", 
+
+    DisableRayfieldPrompts = false,
+    DisableBuildWarnings = false, 
+
+    ConfigurationSaving = {
+       Enabled = false,
+       FolderName = nil, 
+       FileName = "nil"
+    },
+
+    KeySystem = false, 
+    KeySettings = {
+       Title = "Security",
+       Subtitle = "Key System",
+       Note = "The key will be found in the #paid-scripts channel. (To prove your in the server)", 
+       FileName = "Key", 
+       SaveKey = true, 
+       GrabKeyFromSite = false, 
+       Key = {"203857"}
+    }
+
+})
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Quantum",
+    Text = "Welcome to Quantum | Greenville",
+    Duration = 2
+})
+
+local HomeTab = Window:CreateTab("Home")
+local PlayerTab = Window:CreateTab("User")
+local VehicleTab = Window:CreateTab("Vehicle")
+local ContentTab = Window:CreateTab("Content")
+local GriefTab = Window:CreateTab("Grief")
+local AutofarmTab = Window:CreateTab("Autofarm")
+ 
+HomeTab:CreateDivider()
+HomeTab:CreateLabel("If you spot any problems DM 2kemmz or Jake.")
+
+local labelTexts = {
+    "Uh Hello?",
+    "Welcome back!",
+    "Good to see you!",
+    "Theres no party like a diddy party!",
+    "Enjoy your stay!",
+    "What you doing here?",
+    "Smeers gives free blowjobs!",
+    "Polobaba masturbates to furrys!"
+}
+
+local function getRandomLabelText()
+    local index = math.random(1, #labelTexts)  
+    return labelTexts[index]
+end
+
+HomeTab:CreateLabel(getRandomLabelText())
+
+HomeTab:CreateDivider()
+HomeTab:CreateLabel("Thank you for using Quantum!", "thumbs-up")
+HomeTab:CreateLabel("Per 5 invites, you get a 12hr key! (They have got to join for atleast an hour)", "key")
+HomeTab:CreateLabel("Can't believe we have got this far!", "heart")
+
+
+---------------------------------------------------------------
+
+VehicleTab:CreateDivider()
+VehicleTab:CreateSection("Teleport")
+
+VehicleTab:CreateButton({
+    Name = "Teleport to My Car",
+    Callback = function()
+       local Players = game:GetService("Players")
+       local LocalPlayer = Players.LocalPlayer
+       local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+       local HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+ 
+       local carName = LocalPlayer.Name .. "-Car"
+       local car = workspace:FindFirstChild("SessionVehicles") and workspace.SessionVehicles:FindFirstChild(carName)
+ 
+       if car and car:IsA("Model") then
+          local primaryPart = car.PrimaryPart or car:FindFirstChildWhichIsA("BasePart")
+          if primaryPart then
+             HumanoidRootPart.CFrame = primaryPart.CFrame + Vector3.new(0, 5, 0) 
+             Rayfield:Notify({
+                Title = "Teleport Successful",
+                Content = "You have been teleported to your car.",
+                Duration = 3,
+             })
+          else
+             Rayfield:Notify({
+                Title = "Error",
+                Content = "Could not find your car!",
+                Duration = 3,
+             })
+          end
+       else
+          Rayfield:Notify({
+             Title = "Car Not Found",
+             Content = "Your car does not exist!",
+             Duration = 3,
+          })
+       end
+    end
+ })
+
+VehicleTab:CreateButton({
+    Name = "Bring My Car To Me",
+    Callback = function()
+       local Players = game:GetService("Players")
+       local LocalPlayer = Players.LocalPlayer
+       local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+       local HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+ 
+       local carName = LocalPlayer.Name .. "-Car"
+       local car = workspace:FindFirstChild("SessionVehicles") and workspace.SessionVehicles:FindFirstChild(carName)
+ 
+       if car and car:IsA("Model") then
+          local primaryPart = car.PrimaryPart or car:FindFirstChildWhichIsA("BasePart")
+          if primaryPart then
+             if not car.PrimaryPart then
+                car.PrimaryPart = primaryPart
+             end
+ 
+             car:SetPrimaryPartCFrame(HumanoidRootPart.CFrame + Vector3.new(0, 5, 10))
+             Rayfield:Notify({
+                Title = "Success",
+                Content = "Your car has been brought to you.",
+                Duration = 3,
+             })
+          else
+             Rayfield:Notify({
+                Title = "Error",
+                Content = "Could not find your car!",
+                Duration = 3,
+             })
+          end
+       else
+          Rayfield:Notify({
+             Title = "Car Not Found",
+             Content = "Your car does not exist!",
+             Duration = 3,
+          })
+       end
+    end
+ })
+
+ VehicleTab:CreateButton({
+    Name = "Enter Car",
+    Callback = function()
+       local Players = game:GetService("Players")
+       local RunService = game:GetService("RunService")
+       local VirtualInputManager = game:GetService("VirtualInputManager")
+       local LocalPlayer = Players.LocalPlayer
+       local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+       local HRP = Character:WaitForChild("HumanoidRootPart")
+ 
+       local carName = LocalPlayer.Name .. "-Car"
+       local car = workspace:FindFirstChild("SessionVehicles") and workspace.SessionVehicles:FindFirstChild(carName)
+ 
+       if not car or not car:IsA("Model") then
+          Rayfield:Notify({
+             Title = "Car Not Found",
+             Content = "Couldn't find your car.",
+             Duration = 3
+          })
+          return
+       end
+ 
+       local primaryPart = car.PrimaryPart or car:FindFirstChildWhichIsA("BasePart")
+       if not primaryPart then
+          Rayfield:Notify({
+             Title = "Car Not Found",
+             Content = "Couldn't find your car.",
+             Duration = 3
+          })
+          return
+       end
+ 
+       HRP.CFrame = primaryPart.CFrame + Vector3.new(0, 5, 0)
+ 
+       Rayfield:Notify({
+          Title = "Entered Car",
+          Content = "You may now use your car.",
+          Duration = 3
+       })
+ 
+       local closeTimer = 0
+       local isDone = false
+       local thresholdDistance = 10
+       local requiredTime = 1
+ 
+       local connection
+       connection = RunService.Heartbeat:Connect(function(dt)
+          if not Character or not Character:FindFirstChild("HumanoidRootPart") then return end
+ 
+          local dist = (HRP.Position - primaryPart.Position).Magnitude
+          if dist < thresholdDistance then
+             closeTimer += dt
+             if closeTimer >= requiredTime then
+                isDone = true
+                connection:Disconnect()
+             end
+          else
+             closeTimer = 0
+          end
+       end)
+ 
+       task.spawn(function()
+          while not isDone do
+             VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.E, false, game)
+             task.wait(0.05)
+             VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.E, false, game)
+             task.wait(0.05)
+          end
+       end)
+    end
+ })
+
+VehicleTab:CreateSection("Vehicle Maintainence")
+
+local rs = game:GetService("ReplicatedStorage")
+VehicleTab:CreateButton({
+    Name = "Refuel",
+    Callback = function()
+        rs.Remote.Refuel:FireServer(1, os.time())
+    end
+})
+
+local rs = game:GetService("ReplicatedStorage")
+local autoFuel = false
+local autoFuelConnection
+VehicleTab:CreateToggle({
+    Name = "Auto Fuel",
+    Default = false,
+    Callback = function(state)
+        autoFuel = state
+        if autoFuel then
+            autoFuelConnection = task.spawn(function()
+                while autoFuel do
+                    rs.Remote.Refuel:FireServer(1, os.time())
+                    task.wait(25)
+                end
+            end)
+        else
+            autoFuel = false
+        end
+    end
+})
+
+local rs = game:GetService("ReplicatedStorage")
+local autoFuel = false
+local autoFuelConnection
+VehicleTab:CreateToggle({
+    Name = "Auto Fuel (Autofarm)",
+    Default = false,
+    Callback = function(state)
+        autoFuel = state
+        if autoFuel then
+            autoFuelConnection = task.spawn(function()
+                while autoFuel do
+                    rs.Remote.Refuel:FireServer(1, os.time())
+                    task.wait(300)
+                end
+            end)
+        else
+            autoFuel = false
+        end
+    end
+})
+
+local rs = game:GetService("ReplicatedStorage")
+local autoFuel = false
+local autoFuelConnection
+VehicleTab:CreateToggle({
+    Name = "Auto Fuel INF (Takes more money)",
+    Default = false,
+    Callback = function(state)
+        autoFuel = state
+        if autoFuel then
+            autoFuelConnection = task.spawn(function()
+                while autoFuel do
+                    rs.Remote.Refuel:FireServer(1, os.time())
+                    task.wait(3)
+                end
+            end)
+        else
+            autoFuel = false
+        end
+    end
+})
+
+VehicleTab:CreateSection("Fun Stuff")
+
+local isWheelieEnabled = false
+local isStoppieEnabled = false
+local isArabTiltLeftEnabled = false
+local isArabTiltRightEnabled = false
+local isTurningEnabled = false
+local isPivotTurningEnabled = false
+local bodyGyro = nil
+local bodyGyroTurn = nil
+local moveSpeed = 0.5
+local flingRadius = 100  
+local frontAngle = 15 
+local sideAngle = 30  
+
+local function getNearestCar()
+    local player = game.Players.LocalPlayer
+    if not player or not player.Character or not player.Character:FindFirstChild("HumanoidRootPart") then
+        return nil
+    end
+
+    local rootPos = player.Character.HumanoidRootPart.Position
+    local nearestCar = nil
+    local shortestDistance = math.huge
+
+    for _, car in pairs(workspace.SessionVehicles:GetChildren()) do
+        if car:IsA("Model") and car.PrimaryPart then
+            local carPosition = car.PrimaryPart.Position
+            local distance = (carPosition - rootPos).Magnitude
+
+            if distance <= flingRadius then
+                if distance < shortestDistance then
+                    nearestCar = car
+                    shortestDistance = distance
+                end
+            end
+        end
+    end
+
+    return nearestCar
+end
+
+local function handleTurning(car)
+    local userInputService = game:GetService("UserInputService")
+    local movingLeft = false
+    local movingRight = false
+
+    userInputService.InputBegan:Connect(function(input, gameProcessedEvent)
+        if gameProcessedEvent then return end
+        
+        if isTurningEnabled then
+            if input.KeyCode == Enum.KeyCode.A then
+                movingLeft = true
+            elseif input.KeyCode == Enum.KeyCode.D then
+                movingRight = true
+            end
+        end
+    end)
+
+    userInputService.InputEnded:Connect(function(input)
+        if input.KeyCode == Enum.KeyCode.A then
+            movingLeft = false
+        elseif input.KeyCode == Enum.KeyCode.D then
+            movingRight = false
+        end
+    end)
+
+    game:GetService("RunService").Heartbeat:Connect(function()
+        if movingLeft then
+            car:SetPrimaryPartCFrame(car.PrimaryPart.CFrame * CFrame.new(-moveSpeed, 0, 0))
+        elseif movingRight then
+            car:SetPrimaryPartCFrame(car.PrimaryPart.CFrame * CFrame.new(moveSpeed, 0, 0))
+        end
+    end)
+end
+
+local function handlePivotTurning(car)
+    local userInputService = game:GetService("UserInputService")
+    local movingLeft = false
+    local movingRight = false
+
+    userInputService.InputBegan:Connect(function(input, gameProcessedEvent)
+        if gameProcessedEvent then return end
+        
+        if isPivotTurningEnabled then
+            if input.KeyCode == Enum.KeyCode.D then
+                movingLeft = true
+            elseif input.KeyCode == Enum.KeyCode.A then
+                movingRight = true
+            end
+        end
+    end)
+
+    userInputService.InputEnded:Connect(function(input)
+        if input.KeyCode == Enum.KeyCode.D then
+            movingLeft = false
+        elseif input.KeyCode == Enum.KeyCode.A then
+            movingRight = false
+        end
+    end)
+
+    game:GetService("RunService").Heartbeat:Connect(function()
+        if movingLeft then
+            car:SetPrimaryPartCFrame(car.PrimaryPart.CFrame * CFrame.Angles(0, math.rad(-moveSpeed), 0))
+        elseif movingRight then
+            car:SetPrimaryPartCFrame(car.PrimaryPart.CFrame * CFrame.Angles(0, math.rad(moveSpeed), 0))
+        end
+    end)
+end
+
+VehicleTab:CreateToggle({
+    Name = "Enable Wheelie", 
+    Default = false, 
+    Callback = function(state)
+        isWheelieEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isWheelieEnabled then
+                if not bodyGyro then
+                    bodyGyro = Instance.new("BodyGyro")
+                    bodyGyro.MaxTorque = Vector3.new(100000, 100000, 100000)
+                    bodyGyro.CFrame = car.PrimaryPart.CFrame * CFrame.Angles(math.rad(15), 0, 0)  
+                    bodyGyro.Parent = car.PrimaryPart
+                end
+            else
+                if bodyGyro then
+                    bodyGyro:Destroy()
+                    bodyGyro = nil
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Enable Stoppie", 
+    Default = false, 
+    Callback = function(state)
+        isStoppieEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isStoppieEnabled then
+                if not bodyGyro then
+                    bodyGyro = Instance.new("BodyGyro")
+                    bodyGyro.MaxTorque = Vector3.new(100000, 100000, 100000)
+                    bodyGyro.CFrame = car.PrimaryPart.CFrame * CFrame.Angles(math.rad(-15), 0, 0)  
+                    bodyGyro.Parent = car.PrimaryPart
+                end
+            else
+                if bodyGyro then
+                    bodyGyro:Destroy()
+                    bodyGyro = nil
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateDivider()
+
+VehicleTab:CreateToggle({
+    Name = "Enable Arab Tilt Right", 
+    Default = false, 
+    Callback = function(state)
+        isArabTiltLeftEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isArabTiltLeftEnabled then
+                if not bodyGyro then
+                    bodyGyro = Instance.new("BodyGyro")
+                    bodyGyro.MaxTorque = Vector3.new(100000, 100000, 100000)
+                    bodyGyro.CFrame = car.PrimaryPart.CFrame * CFrame.Angles(0, 0, math.rad(-45))  
+                    bodyGyro.Parent = car.PrimaryPart
+                end
+            else
+                if bodyGyro then
+                    bodyGyro:Destroy()
+                    bodyGyro = nil
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Enable Arab Tilt Right 1", 
+    Default = false, 
+    Callback = function(state)
+        isArabTiltLeftEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isArabTiltLeftEnabled then
+                if not bodyGyro then
+                    bodyGyro = Instance.new("BodyGyro")
+                    bodyGyro.MaxTorque = Vector3.new(100000, 100000, 100000)
+                    bodyGyro.CFrame = car.PrimaryPart.CFrame * CFrame.Angles(0, 0, math.rad(-58))  
+                    bodyGyro.Parent = car.PrimaryPart
+                end
+            else
+                if bodyGyro then
+                    bodyGyro:Destroy()
+                    bodyGyro = nil
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Enable Arab Tilt Right 2", 
+    Default = false, 
+    Callback = function(state)
+        isArabTiltLeftEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isArabTiltLeftEnabled then
+                if not bodyGyro then
+                    bodyGyro = Instance.new("BodyGyro")
+                    bodyGyro.MaxTorque = Vector3.new(100000, 100000, 100000)
+                    bodyGyro.CFrame = car.PrimaryPart.CFrame * CFrame.Angles(0, 0, math.rad(-73))  
+                    bodyGyro.Parent = car.PrimaryPart
+                end
+            else
+                if bodyGyro then
+                    bodyGyro:Destroy()
+                    bodyGyro = nil
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateDivider()
+
+VehicleTab:CreateToggle({
+    Name = "Enable Arab Tilt Left", 
+    Default = false, 
+    Callback = function(state)
+        isArabTiltRightEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isArabTiltRightEnabled then
+                if not bodyGyro then
+                    bodyGyro = Instance.new("BodyGyro")
+                    bodyGyro.MaxTorque = Vector3.new(100000, 100000, 100000)
+                    bodyGyro.CFrame = car.PrimaryPart.CFrame * CFrame.Angles(0, 0, math.rad(45))  
+                    bodyGyro.Parent = car.PrimaryPart
+                end
+            else
+                if bodyGyro then
+                    bodyGyro:Destroy()
+                    bodyGyro = nil
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Enable Arab Tilt Left 1", 
+    Default = false, 
+    Callback = function(state)
+        isArabTiltRightEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isArabTiltRightEnabled then
+                if not bodyGyro then
+                    bodyGyro = Instance.new("BodyGyro")
+                    bodyGyro.MaxTorque = Vector3.new(100000, 100000, 100000)
+                    bodyGyro.CFrame = car.PrimaryPart.CFrame * CFrame.Angles(0, 0, math.rad(58))  
+                    bodyGyro.Parent = car.PrimaryPart
+                end
+            else
+                if bodyGyro then
+                    bodyGyro:Destroy()
+                    bodyGyro = nil
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Enable Arab Tilt Left 2", 
+    Default = false, 
+    Callback = function(state)
+        isArabTiltRightEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isArabTiltRightEnabled then
+                if not bodyGyro then
+                    bodyGyro = Instance.new("BodyGyro")
+                    bodyGyro.MaxTorque = Vector3.new(100000, 100000, 100000)
+                    bodyGyro.CFrame = car.PrimaryPart.CFrame * CFrame.Angles(0, 0, math.rad(73))  
+                    bodyGyro.Parent = car.PrimaryPart
+                end
+            else
+                if bodyGyro then
+                    bodyGyro:Destroy()
+                    bodyGyro = nil
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateDivider()
+
+VehicleTab:CreateToggle({
+    Name = "Enable Left/Right Turning", 
+    Default = false, 
+    Callback = function(state)
+        isTurningEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isTurningEnabled then
+                handleTurning(car)
+            else
+                if bodyGyroTurn then
+                    bodyGyroTurn:Destroy()
+                    bodyGyroTurn = nil
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Enable Pivot Turning", 
+    Default = false, 
+    Callback = function(state)
+        isPivotTurningEnabled = state
+        local car = getNearestCar()
+        if car then
+            if isPivotTurningEnabled then
+                handlePivotTurning(car)
+            else
+                if bodyGyroTurn then
+                    bodyGyroTurn:Destroy()
+                    bodyGyroTurn = nil
+                end
+            end
+        end
+    end
+})
+
+--
+
+VehicleTab:CreateSection("Hijack")
+
+VehicleTab:CreateButton({ 
+    Name = "Inject Car Connection",
+    Callback = function()
+        local nearestCar = nil
+        local shortestDistance = math.huge
+        local character = game.Players.LocalPlayer.Character or game.Players.LocalPlayer.CharacterAdded:Wait()
+        local hrp = character and character:FindFirstChild("HumanoidRootPart")
+
+        if hrp then
+            for _, car in pairs(workspace:WaitForChild("SessionVehicles"):GetChildren()) do
+                if car:IsA("Model") and car.PrimaryPart and car.Name:find("-Car") then
+                    local distance = (car.PrimaryPart.Position - hrp.Position).Magnitude
+                    if distance < shortestDistance then
+                        shortestDistance = distance
+                        nearestCar = car
+                    end
+                end
+            end
+        end
+
+        if nearestCar then
+            local usernameFromCar = nearestCar.Name:match("^(.*)%-Car$")
+            if usernameFromCar then
+                trackedCarUsername = usernameFromCar
+                Rayfield:Notify({
+                    Title = "Injection Successful",
+                    Content = "Connected to nearest car owned by: " .. trackedCarUsername,
+                    Duration = 3
+                })
+            else
+                Rayfield:Notify({
+                    Title = "Injection Failed",
+                    Content = "Couldn't determine the owner of the nearest car.",
+                    Duration = 3
+                })
+            end
+        else
+            Rayfield:Notify({
+                Title = "Injection Failed",
+                Content = "No valid car found nearby.",
+                Duration = 3
+            })
+        end
+    end
+})
+
+VehicleTab:CreateButton({
+    Name = "Hijack Car",
+    Callback = function()
+        if not trackedCarUsername then
+            Rayfield:Notify({
+                Title = "Hijack Failed",
+                Content = "No injected car found. Please inject a car first.",
+                Duration = 3
+            })
+            return
+        end
+
+        local carName = trackedCarUsername .. "-Car"
+        local car = workspace:FindFirstChild("SessionVehicles") and workspace.SessionVehicles:FindFirstChild(carName)
+
+        if not car then
+            Rayfield:Notify({
+                Title = "Hijack Failed",
+                Content = "Injected car '" .. carName .. "' not found.",
+                Duration = 3
+            })
+            return
+        end
+
+        local character = game.Players.LocalPlayer.Character or game.Players.LocalPlayer.CharacterAdded:Wait()
+        local hrp = character:FindFirstChild("HumanoidRootPart")
+        local humanoid = character:FindFirstChildOfClass("Humanoid")
+
+        if not (hrp and humanoid) then
+            Rayfield:Notify({
+                Title = "Hijack Failed",
+                Content = "Character or HumanoidRootPart not found.",
+                Duration = 3
+            })
+            return
+        end
+
+        local closestSeat = nil
+        local shortestDistance = math.huge
+
+        for _, part in pairs(car:GetDescendants()) do
+            if part:IsA("Seat") or part:IsA("VehicleSeat") then
+                local distance = (part.Position - hrp.Position).Magnitude
+                if distance < shortestDistance then
+                    shortestDistance = distance
+                    closestSeat = part
+                end
+            end
+        end
+
+        if closestSeat then
+            humanoid.Sit = false
+            task.wait(0.1)
+            closestSeat:Sit(humanoid)
+
+            Rayfield:Notify({
+                Title = "Hijack Successful",
+                Content = "You are now seated in: " .. closestSeat.Name,
+                Duration = 3
+            })
+        else
+            Rayfield:Notify({
+                Title = "Hijack Failed",
+                Content = "No seats found in the injected car.",
+                Duration = 3
+            })
+        end
+    end
+})
+
+VehicleTab:CreateButton({
+    Name = "Instructions",
+    Callback = function()
+        Rayfield:Notify({
+            Title = "Instructions",
+            Content = "Click inject near the car you wanna steal then stand where the drivers seat is and click Hijack.",
+            Duration = 6
+        })
+    end
+})
+
+VehicleTab:CreateSection("Extras")
+
+local easyflipping = false
+VehicleTab:CreateToggle({
+    Name = "Easy Flipping",
+    CurrentValue = easyflipping,
+    Callback = function(Value)
+        easyflipping = Value
+        local player = game.Players.LocalPlayer
+        local PlayerCar = workspace.SessionVehicles:FindFirstChild(player.Name .. "-Car")
+        if not PlayerCar then return end
+
+        local Wheels = PlayerCar:FindFirstChild("Wheels")
+        if Wheels then
+            for _, wheel in ipairs(Wheels:GetChildren()) do
+                local props = wheel.CustomPhysicalProperties
+                if props then
+                    wheel.CustomPhysicalProperties = PhysicalProperties.new(
+                        props.Density,
+                        Value and 2 or 0.5, 
+                        props.Elasticity,
+                        100,
+                        props.ElasticityWeight
+                    )
+                end
+            end
+        end
+
+        game.Workspace.Gravity = Value and 50 or 200
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Lock Inplace",
+    Callback = function(Value)
+        local player = game.Players.LocalPlayer
+        local PlayerCar = workspace.SessionVehicles:FindFirstChild(player.Name .. "-Car")
+        if not PlayerCar then return end
+
+        if Value then
+            for _, part in ipairs(PlayerCar:GetDescendants()) do
+                if part:IsA("BasePart") then
+                    part.Anchored = true
+                end
+            end
+        else
+            for _, part in ipairs(PlayerCar:GetDescendants()) do
+                if part:IsA("BasePart") then
+                    part.Anchored = false
+                end
+            end
+        end
+    end
+})
+
+local Sound = Instance.new("Sound")
+Sound.Parent = game:GetService("SoundService") 
+Sound.Volume = 1
+Sound.Looped = false 
+
+VehicleTab:CreateToggle({
+    Name = "Wipers (Not movable)",
+    CurrentValue = false,
+    Flag = "SoundToggle",
+    Callback = function(Value)
+        if Value then
+            Sound.SoundId = "rbxassetid://1064907409" 
+            Sound:Play()
+        else
+            Sound:Stop()
+        end
+    end
+})
+
+VehicleTab:CreateSection("Drift")
+
+local gravityEnabled = false
+local function getNearestCar()
+    local player = game.Players.LocalPlayer
+    local nearestCar = nil
+    local shortestDistance = math.huge  
+    
+    for _, car in pairs(game.Workspace.SessionVehicles:GetChildren()) do
+        if car.PrimaryPart then
+            local distance = (car.PrimaryPart.Position - player.Character.HumanoidRootPart.Position).Magnitude
+            if distance < shortestDistance then
+                shortestDistance = distance
+                nearestCar = car
+            end
+        end
+    end
+    
+    return nearestCar
+end
+
+VehicleTab:CreateToggle({
+    Name = "Gravity Toggle",
+    CurrentValue = gravityEnabled,
+    Callback = function(Value)
+        gravityEnabled = Value
+        game.Workspace.Gravity = Value and 40 or 200
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Higher Grip",
+    CurrentValue = false,
+    Flag = "ToggleHigherGrip",
+    Callback = function(Value)
+        local nearestCar = getNearestCar() 
+        if nearestCar then
+            local Wheels = nearestCar:FindFirstChild("Wheels")
+            if Wheels then
+                for _, wheel in ipairs(Wheels:GetChildren()) do
+                    local props = wheel.CustomPhysicalProperties
+                    wheel.CustomPhysicalProperties = PhysicalProperties.new(
+                        props.Density,
+                        Value and 2 or 0.5,
+                        props.Elasticity,
+                        100,
+                        props.ElasticityWeight
+                    )
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Higher Grip MAX",
+    CurrentValue = false,
+    Flag = "ToggleHigherGripMax",
+    Callback = function(Value)
+        local nearestCar = getNearestCar()  
+        if nearestCar then
+            local Wheels = nearestCar:FindFirstChild("Wheels")
+            if Wheels then
+                for _, wheel in ipairs(Wheels:GetChildren()) do
+                    local props = wheel.CustomPhysicalProperties
+                    wheel.CustomPhysicalProperties = PhysicalProperties.new(
+                        props.Density,
+                        Value and 9999 or 0.5,
+                        props.Elasticity,
+                        100,
+                        props.ElasticityWeight
+                    )
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Hajwala Mode",
+    CurrentValue = false,
+    Flag = "ToggleHajwalaMode",
+    Callback = function(Value)
+        local nearestCar = getNearestCar()  
+        if nearestCar then
+            local Wheels = nearestCar:FindFirstChild("Wheels")
+            if Wheels then
+                for _, wheel in ipairs(Wheels:GetChildren()) do
+                    local props = wheel.CustomPhysicalProperties
+                    wheel.CustomPhysicalProperties = PhysicalProperties.new(
+                        props.Density,
+                        Value and 0.2 or 2,
+                        Value and 2 or props.Elasticity,
+                        100,
+                        props.ElasticityWeight
+                    )
+                end
+            end
+        end
+
+        gravityEnabled = Value
+        game.Workspace.Gravity = Value and 40 or 200
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Low Grip",
+    CurrentValue = false,
+    Flag = "ToggleLowGrip",
+    Callback = function(Value)
+        local nearestCar = getNearestCar()  
+        if nearestCar then
+            local Wheels = nearestCar:FindFirstChild("Wheels")
+            if Wheels then
+                for _, wheel in ipairs(Wheels:GetChildren()) do
+                    local props = wheel.CustomPhysicalProperties
+                    wheel.CustomPhysicalProperties = PhysicalProperties.new(
+                        props.Density,
+                        Value and 0.2 or 2, 
+                        Value and 2.5 or props.Elasticity,  
+                        100,
+                        props.ElasticityWeight
+                    )
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "RWD Perfection :)",
+    CurrentValue = false,
+    Flag = "TogglePerfectionGrip",
+    Callback = function(Value)
+        local nearestCar = getNearestCar()  
+        if nearestCar then
+            local Wheels = nearestCar:FindFirstChild("Wheels")
+            if Wheels then
+                for _, wheel in ipairs(Wheels:GetChildren()) do
+                    local props = wheel.CustomPhysicalProperties
+                    wheel.CustomPhysicalProperties = PhysicalProperties.new(
+                        props.Density,
+                        Value and 0.17 or 1, 
+                        Value and 5 or props.Elasticity,  
+                        100,
+                        props.ElasticityWeight
+                    )
+                end
+            end
+        end
+    end
+})
+
+local customGripEnabled = false
+
+VehicleTab:CreateToggle({
+    Name = "Enable Custom Grip",
+    CurrentValue = customGripEnabled,
+    Flag = "ToggleCustomGrip",
+    Callback = function(Value)
+        customGripEnabled = Value
+        local nearestCar = getNearestCar()
+        if not Value and nearestCar then
+            local Wheels = nearestCar:FindFirstChild("Wheels")
+            if Wheels then
+                for _, wheel in ipairs(Wheels:GetChildren()) do
+                    wheel.CustomPhysicalProperties = PhysicalProperties.new(
+                        1, -- default friction
+                        1, -- default grip
+                        0.5,
+                        100,
+                        1
+                    )
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateSlider({
+    Name = "Custom Grip",
+    Range = {0.1, 5},
+    Increment = 0.05,
+    Suffix = "Grip",
+    CurrentValue = 1,
+    Flag = "CustomGripSlider",
+    Callback = function(Value)
+        if not customGripEnabled then return end
+        local nearestCar = getNearestCar()
+        if nearestCar then
+            local Wheels = nearestCar:FindFirstChild("Wheels")
+            if Wheels then
+                for _, wheel in ipairs(Wheels:GetChildren()) do
+                    local props = wheel.CustomPhysicalProperties
+                    wheel.CustomPhysicalProperties = PhysicalProperties.new(
+                        props.Density,
+                        Value,
+                        props.Elasticity,
+                        100,
+                        props.ElasticityWeight
+                    )
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateDivider()
+
+
+
+
+
+
+
+VehicleTab:CreateSection("Car Jump")
+
+local flingPower = 10
+local flingEnabled = false
+local jumpKey = nil
+
+local function getNearestCar()
+    local player = game.Players.LocalPlayer
+    local nearestCar = nil
+    local shortestDistance = math.huge 
+    
+    for _, car in pairs(game.Workspace.SessionVehicles:GetChildren()) do
+        if car.PrimaryPart then
+            local distance = (car.PrimaryPart.Position - player.Character.HumanoidRootPart.Position).Magnitude
+            if distance < shortestDistance then
+                shortestDistance = distance
+                nearestCar = car
+            end
+        end
+    end
+    
+    return nearestCar
+end
+
+VehicleTab:CreateSlider({
+    Name = "Jump Power",
+    Range = {10, 300},
+    Increment = 10,
+    Suffix = "Force",
+    CurrentValue = 100,
+    Flag = "FlingPowerValue",
+    Callback = function(Value)
+        flingPower = Value
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Enable Jump",
+    Default = false,
+    Callback = function(Value)
+        flingEnabled = Value
+        Rayfield:Notify({
+            Title = "Fling Status",
+            Content = flingEnabled and "Jump Enabled! Press your assigned key." or "Jump Disabled!",
+            Duration = 3,
+        })
+    end
+})
+
+VehicleTab:CreateInput({
+    Name = "Jump Key",
+    PlaceholderText = "Enter a key (e.g, G)",
+    RemoveTextAfterFocusLost = false,
+    Callback = function(Value)
+        local keyEnum = Enum.KeyCode[Value:upper()]
+        if keyEnum then
+            jumpKey = keyEnum
+            Rayfield:Notify({
+                Title = "Key Set",
+                Content = "Jump key set to: " .. Value:upper(),
+                Duration = 3,
+            })
+        else
+            Rayfield:Notify({
+                Title = "Invalid Key",
+                Content = "Please enter a valid key name!",
+                Duration = 3,
+            })
+        end
+    end
+})
+
+local UIS = game:GetService("UserInputService")
+UIS.InputBegan:Connect(function(input, gameProcessed)
+    if jumpKey and input.KeyCode == jumpKey and flingEnabled then
+        local car = getNearestCar()  
+        if car and car.PrimaryPart then
+            local carFling = Instance.new("BodyVelocity")
+            carFling.Velocity = Vector3.new(0, flingPower, 0) 
+            carFling.MaxForce = Vector3.new(1e9, 1e9, 1e9)
+            carFling.Parent = car.PrimaryPart
+            task.wait(0.3)
+            carFling:Destroy()
+        end
+    end
+end)
+
+VehicleTab:CreateButton({
+    Name = "Fling Car Max (Escape Police)",
+    Callback = function()
+        local car = getNearestCar()  
+        if car and car.PrimaryPart then
+            local carFling = Instance.new("BodyVelocity")
+            carFling.Velocity = Vector3.new(0, 500, 0) 
+            carFling.MaxForce = Vector3.new(1e9, 1e9, 1e9)
+            carFling.Parent = car.PrimaryPart
+            task.wait(0.3)
+            carFling:Destroy()
+        end
+    end
+})
+
+VehicleTab:CreateSection("Suspension")
+
+VehicleTab:CreateToggle({
+    Name = "Maybach Bounce",
+    CurrentValue = gravityEnabled,
+    Callback = function(Value)
+        gravityEnabled = Value
+        
+        if gravityEnabled and not isLooping then
+            isLooping = true
+            task.spawn(function() 
+                while gravityEnabled do
+                    game.Workspace.Gravity = 320
+                    wait(0.28)  
+                    game.Workspace.Gravity = 200
+                    wait(0.28)
+                end
+                isLooping = false 
+            end)
+        else
+            game.Workspace.Gravity = 200 
+            isLooping = false 
+        end
+    end
+})
+
+local gravityEnabled = false
+VehicleTab:CreateToggle({
+    Name = "Riding Low Mode",
+    CurrentValue = gravityEnabled,
+    Callback = function(Value)
+        gravityEnabled = Value
+        if gravityEnabled then
+            game.Workspace.Gravity = 1000
+        else
+            game.Workspace.Gravity = 200
+        end
+    end
+})
+
+local gravityEnabled = false
+VehicleTab:CreateToggle({
+    Name = "Street Mode",
+    CurrentValue = gravityEnabled,
+    Callback = function(Value)
+        gravityEnabled = Value
+        if gravityEnabled then
+            game.Workspace.Gravity = 500
+        else
+            game.Workspace.Gravity = 200
+        end
+    end
+})
+
+local gravityEnabled = false
+VehicleTab:CreateToggle({
+    Name = "Offroad Mode",
+    CurrentValue = gravityEnabled,
+    Callback = function(Value)
+        gravityEnabled = Value
+        if gravityEnabled then
+            game.Workspace.Gravity = 100
+        else
+            game.Workspace.Gravity = 200
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Goofy Wheels",
+    CurrentValue = false,
+    Flag = "ToggleGoofyWheels",
+    Callback = function(Value)
+        GoofyWheels = Value
+        local player = game.Players.LocalPlayer
+        local PlayerCar = workspace.SessionVehicles:FindFirstChild(player.Name .. "-Car")
+        local Wheels = PlayerCar:FindFirstChild("Wheels")
+        for _, wheel in ipairs(Wheels:GetChildren()) do
+            print(wheel.Name)
+            local spring = wheel:FindFirstChild("Spring")
+            if spring then
+                if GoofyWheels then
+                    spring.MinLength = 5
+                    spring.MaxLength = 15
+                else
+                    spring.MinLength = 0
+                    spring.MaxLength = 0
+                end
+            end
+        end
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Reset",
+    CurrentValue = gravityEnabled,
+    Callback = function(Value)
+        gravityEnabled = Value
+        if gravityEnabled then
+            game.Workspace.Gravity = 200
+        else
+            game.Workspace.Gravity = 200
+        end
+    end
+})
+
+---------------------------------------------------------------
+
+ContentTab:CreateSection("Dashcam")
+
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local camera = workspace.CurrentCamera
+local activeView = nil
+local showInfo = false
+local displayUsername = player.Name
+local trackedCarUsername = player.Name
+local speedUnit = "MPH/KMH"
+
+local plateOffset = Vector3.new(1, 1.5, -4)
+local dashcamOffset = Vector3.new(0, 1.5, 4)
+
+local infoGui = Instance.new("ScreenGui")
+infoGui.Name = "DashcamOverlay"
+infoGui.ResetOnSpawn = false
+infoGui.Enabled = false
+infoGui.Parent = player:WaitForChild("PlayerGui")
+
+local function createLabel(size, position, text, fontSize)
+    local label = Instance.new("TextLabel")
+    label.Size = size
+    label.Position = position
+    label.BackgroundTransparency = 1
+    label.TextColor3 = Color3.fromRGB(255, 255, 255)
+    label.Font = Enum.Font.Code
+    label.TextSize = fontSize
+    label.TextStrokeTransparency = 0.4
+    label.TextStrokeColor3 = Color3.new(0, 0, 0)
+    label.Text = text
+    label.TextXAlignment = Enum.TextXAlignment.Center
+    label.TextYAlignment = Enum.TextYAlignment.Center
+    label.Parent = infoGui
+    return label
+end
+
+local dateTimeLabelLeft = createLabel(UDim2.new(0.30, 0, 0, 40), UDim2.new(0.01, 0, 1, -50), "", 30)
+local speedLabel = createLabel(UDim2.new(0.2, 0, 0, 40), UDim2.new(0.4, 0, 1, -50), "", 30)
+local usernameLabel = createLabel(UDim2.new(0.15, 0, 0, 40), UDim2.new(0.75, 0, 1, -50), "", 30)
+
+local function getLocalTime()
+    return os.date("%X")
+end
+
+local function getDate()
+    return os.date("%d/%m/%Y")
+end
+
+local function getCarByUsername(username)
+    return workspace.SessionVehicles:FindFirstChild(username .. "-Car")
+end
+
+local MPS_TO_MPH = 0.57
+local MPS_TO_KMH = 0.91732608
+local DASHCAM_SCALE_FACTOR = 1
+
+local function updateInfoUI()
+    while showInfo do
+        local speed = 0
+        local unit = speedUnit:upper()
+        local car = getCarByUsername(trackedCarUsername)
+
+        if car and car.PrimaryPart then
+            local velocity = car.PrimaryPart.AssemblyLinearVelocity.Magnitude
+
+            if unit == "KMH" then
+                speed = math.floor(velocity * MPS_TO_KMH)
+            elseif unit == "MPH" then
+                speed = math.floor(velocity * MPS_TO_MPH)
+            else
+                speed = math.floor(velocity)
+            end
+
+            speed = math.floor(speed * DASHCAM_SCALE_FACTOR)
+        end
+
+        local gameFormattedTime = getLocalTime()
+        local gameDate = getDate()
+        local paddedSpeed = string.format("%03d", speed)
+
+        dateTimeLabelLeft.Text = gameDate .. " " .. gameFormattedTime
+        speedLabel.Text = string.format("Speed: %s%s", paddedSpeed, unit)
+        usernameLabel.Text = string.format("User: %s", displayUsername)
+
+        dateTimeLabelLeft.Visible = true
+        speedLabel.Visible = true
+        usernameLabel.Visible = true
+
+        task.wait(0.1)
+    end
+
+    dateTimeLabelLeft.Visible = false
+    speedLabel.Visible = false
+    usernameLabel.Visible = false
+end
+
+local function toggleCamera(viewName, positionOffset, fov, toggleState)
+    if toggleState then
+        if activeView == viewName then return end
+        activeView = viewName
+        camera.CameraType = Enum.CameraType.Scriptable
+        camera.FieldOfView = fov or 70
+
+        task.spawn(function()
+            while activeView == viewName do
+                if character and character:FindFirstChild("HumanoidRootPart") then
+                    local hrp = character.HumanoidRootPart
+                    camera.CFrame = hrp.CFrame * CFrame.new(positionOffset)
+                end
+                task.wait()
+            end
+        end)
+
+        Rayfield:Notify({
+            Title = "Camera View Activated",
+            Content = viewName .. " activated.",
+            Duration = 3
+        })
+    else
+        if activeView == viewName then
+            activeView = nil
+            camera.CameraType = Enum.CameraType.Custom
+            camera.FieldOfView = 70
+            Rayfield:Notify({
+                Title = "Camera Disabled",
+                Content = "Reset to default view.",
+                Duration = 3
+            })
+        end
+    end
+end
+
+ContentTab:CreateToggle({
+    Name = "Dashcam View (1)",
+    Default = false,
+    Callback = function(toggleState)
+        toggleCamera("1st View", Vector3.new(1, 1.6, -4.2), 100, toggleState)
+    end
+})
+
+ContentTab:CreateToggle({
+    Name = "Dashcam View (2)",
+    Default = false,
+    Callback = function(toggleState)
+        toggleCamera("2nd View", Vector3.new(1.65, 1.6, -3.2), 100, toggleState)
+    end
+})
+
+ContentTab:CreateToggle({
+    Name = "Dashcam View (3)",
+    Default = false,
+    Callback = function(toggleState)
+        toggleCamera("3rd View", Vector3.new(1, 1.9, -3.7), 100, toggleState)
+    end
+})
+
+ContentTab:CreateToggle({
+    Name = "Dashcam View (4)",
+    Default = false,
+    Callback = function(toggleState)
+        toggleCamera("4th View", Vector3.new(0.73, 1.6, -4.7), 100, toggleState)
+    end
+})
+
+ContentTab:CreateToggle({
+    Name = "Plate View",
+    Default = false,
+    Callback = function(toggleState)
+        toggleCamera("Plate View", Vector3.new(2, -5, -20), 100, toggleState)
+    end
+})
+
+ContentTab:CreateDivider()
+
+ContentTab:CreateToggle({
+    Name = "Show Dashcam UI",
+    CurrentValue = false,
+    Callback = function(value)
+        showInfo = value
+        infoGui.Enabled = value
+        if showInfo then
+            task.spawn(updateInfoUI)
+        end
+    end
+})
+
+ContentTab:CreateInput({
+    Name = "Set Cover Username",
+    PlaceholderText = "Your cover name here",
+    RemoveTextAfterFocusLost = true,
+    Callback = function(input)
+        displayUsername = input
+        usernameLabel.Text = string.format("User: %s", displayUsername)
+    end
+})
+
+ContentTab:CreateInput({
+    Name = "Set Speed Unit (MPH/KMH)",
+    PlaceholderText = "MPH/KMH",
+    RemoveTextAfterFocusLost = true,
+    Callback = function(input)
+        local unit = input:upper()
+        if unit == "KMH" or unit == "MPH" then
+            speedUnit = unit
+        end
+    end
+})
+
+ContentTab:CreateButton({
+    Name = "Inject Car Connection",
+    Callback = function()
+        local nearestCar = nil
+        local shortestDistance = math.huge
+        local hrp = character:FindFirstChild("HumanoidRootPart")
+
+        if hrp then
+            for _, car in pairs(workspace.SessionVehicles:GetChildren()) do
+                if car:IsA("Model") and car.PrimaryPart then
+                    local distance = (car.PrimaryPart.Position - hrp.Position).Magnitude
+                    if distance < shortestDistance then
+                        shortestDistance = distance
+                        nearestCar = car
+                    end
+                end
+            end
+        end
+
+        if nearestCar and nearestCar.Name:find("-Car") then
+            local usernameFromCar = nearestCar.Name:match("^(.*)%-Car$")
+            if usernameFromCar then
+                trackedCarUsername = usernameFromCar
+                Rayfield:Notify({
+                    Title = "Injection Successful",
+                    Content = "Connected to nearest car owned by: " .. trackedCarUsername,
+                    Duration = 3
+                })
+            else
+                Rayfield:Notify({
+                    Title = "Injection Failed",
+                    Content = "Couldn't determine the owner of the nearest car.",
+                    Duration = 3
+                })
+            end
+        else
+            Rayfield:Notify({
+                Title = "Injection Failed",
+                Content = "No valid car found nearby.",
+                Duration = 3
+            })
+        end
+    end
+})
+
+local hiddenGUIs = {}
+local function isRayfieldGui(gui)
+    return gui.Name:lower():find("rayfield") or gui:FindFirstChild("Topbar") or gui:FindFirstChild("Container")
+end
+
+ContentTab:CreateToggle({
+    Name = "Hide UIs",
+    CurrentValue = false,
+    Flag = "GuiToggle",
+    Callback = function(state)
+        local player = game:GetService("Players").LocalPlayer
+        local playerGui = player:WaitForChild("PlayerGui")
+
+        if state then
+            for _, gui in ipairs(playerGui:GetChildren()) do
+                if gui:IsA("ScreenGui") and gui.Enabled and not isRayfieldGui(gui) then
+                    gui.Enabled = false
+                    table.insert(hiddenGUIs, gui)
+                end
+            end
+        else
+            for _, gui in ipairs(hiddenGUIs) do
+                if gui and gui.Parent == playerGui then
+                    gui.Enabled = true
+                end
+            end
+            hiddenGUIs = {}
+        end
+    end
+})
+
+ContentTab:CreateSection("Police")
+
+local detectionEnabled = false
+
+ContentTab:CreateToggle({
+    Name = "Enable Detection",
+    CurrentValue = false,
+    Callback = function(value)
+        detectionEnabled = value
+    end
+})
+
+local targetRoles = {"Wisconsin State Patrol", "Outagamie County Sherrif's Office", "Fox Valley Metro Police Department"}  
+local soundId = "rbxassetid://104095298431445" 
+
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+character:WaitForChild("HumanoidRootPart") 
+local sound = Instance.new("Sound", character.HumanoidRootPart)
+sound.SoundId = soundId
+sound.Looped = false
+sound.Volume = 2
+sound.PlaybackSpeed = 0.95
+
+local detectionRange = 800
+
+ContentTab:CreateSlider({
+    Name = "Detection Range",
+    Range = {25, 850},
+    Increment = 1,
+    Suffix = "Studs",
+    CurrentValue = 800,
+    Flag = "detectionRange",
+    Callback = function(value)
+        detectionRange = value
+    end
+})
+local function sendNotification(role, distance, username)
+    Rayfield:Notify({
+        Title = "Radar Detection",
+        Content = string.format("User: %s\nRole: %s\nStuds Away: %.2f", username, role, distance),
+        Duration = 5,
+        Type = "info"
+    })
+end
+
+local function checkProximity()
+    while wait(1) do  -- Check every second
+        if not detectionEnabled then
+            sound.Playing = false
+            continue
+        end
+
+        local playerPosition = character.PrimaryPart.Position
+        local found = false
+
+        for _, otherPlayer in pairs(game.Players:GetPlayers()) do
+            if otherPlayer ~= player and otherPlayer.Team and table.find(targetRoles, otherPlayer.Team.Name) then
+                local otherCharacter = otherPlayer.Character
+                if otherCharacter and otherCharacter:FindFirstChild("HumanoidRootPart") then
+                    local distance = (otherCharacter.HumanoidRootPart.Position - playerPosition).Magnitude
+                    if distance <= detectionRange then 
+                        found = true
+                        sendNotification(otherPlayer.Team.Name, distance, otherPlayer.Name)
+                        break
+                    end
+                end
+            end
+        end
+
+        if found then
+            if not sound.IsPlaying then
+                sound:Play()  
+                wait(0.1)  
+            end
+        else
+            sound:Stop()
+        end
+    end
+end
+
+task.spawn(checkProximity)
+
+---
+
+VehicleTab:CreateSection("Speed")
+
+local AccelerationEnabled = false
+local DecelerationEnabled = false
+local speedhaxforce = 1000  
+local brakehaxforce = 1000 
+local accelKey = Enum.KeyCode.W
+local decelKey = Enum.KeyCode.S
+local instantBrakeKey = nil
+local function findNearestCar(player)
+    local closestCar = nil
+    local closestDistance = math.huge 
+
+    for _, car in pairs(game.Workspace.SessionVehicles:GetChildren()) do
+        local driveSeat = car:FindFirstChild("DriveSeat")  
+        if driveSeat and driveSeat.Occupant then
+            local driver = driveSeat.Occupant
+            local carPosition = car.PrimaryPart.Position
+            local playerPosition = player.Character.HumanoidRootPart.Position
+            local distance = (carPosition - playerPosition).Magnitude
+            
+            if distance < closestDistance then
+                closestDistance = distance
+                closestCar = car
+                closestDriver = driver  
+            end
+        end
+    end
+    return closestCar, closestDriver
+end
+
+VehicleTab:CreateToggle({
+    Name = "Enable Acceleration",
+    CurrentValue = false,
+    Flag = "ToggleAcceleration",
+    Callback = function(Value)
+        AccelerationEnabled = Value
+    end
+})
+
+VehicleTab:CreateToggle({
+    Name = "Enable Deceleration",
+    CurrentValue = false,
+    Flag = "ToggleDeceleration",
+    Callback = function(Value)
+        DecelerationEnabled = Value
+    end
+})
+
+VehicleTab:CreateSlider({
+    Name = "Acceleration Force",
+    Range = {1, 100000},
+    Increment = 1,
+    Suffix = "Acceleration",
+    CurrentValue = 1000,
+    Flag = "SpeedHacksSpeed",
+    Callback = function(Value)
+        speedhaxforce = Value
+    end
+})
+
+VehicleTab:CreateSlider({
+    Name = "Deceleration Force",
+    Range = {1, 100000},
+    Increment = 1,
+    Suffix = "Brake Force",
+    CurrentValue = 1000,
+    Flag = "BrakeHacksForce",
+    Callback = function(Value)
+        brakehaxforce = Value
+    end
+})
+
+VehicleTab:CreateInput({
+    Name = "Acceleration Keybind",
+    PlaceholderText = "Enter Key (e.g., W)",
+    Flag = "AccelKeybind",
+    Callback = function(Value)
+        local keyCode = Enum.KeyCode[Value:upper()]
+        if keyCode then accelKey = keyCode end
+    end
+})
+
+VehicleTab:CreateInput({
+    Name = "Deceleration Keybind",
+    PlaceholderText = "Enter Key (e.g., S)",
+    Flag = "DecelKeybind",
+    Callback = function(Value)
+        local keyCode = Enum.KeyCode[Value:upper()]
+        if keyCode then decelKey = keyCode end
+    end
+})
+
+VehicleTab:CreateButton({
+    Name = "Inject Hacks",
+    Callback = function()
+        local player = game.Players.LocalPlayer
+        local userInputService = game:GetService("UserInputService")
+        local runService = game:GetService("RunService")
+        local car, driver = findNearestCar(player)
+
+        if car and driver then
+            Rayfield:Notify({
+                Title = "Car Found!",
+                Content = "You may now use Speed.",
+                Duration = 3,
+                Actions = {}
+            })
+
+            local primaryPart = car.PrimaryPart
+            local attachment = primaryPart:FindFirstChild("ForceAttachment")
+            if not attachment then
+                attachment = Instance.new("Attachment")
+                attachment.Name = "ForceAttachment"
+                attachment.Parent = primaryPart
+            end
+
+            local force = Instance.new("VectorForce")
+            force.Parent = car
+            force.RelativeTo = Enum.ActuatorRelativeTo.World
+            force.Attachment0 = attachment
+            force.ApplyAtCenterOfMass = true
+            force.Force = Vector3.new(0, 0, 0)
+
+            local isPressingW = false
+            local isPressingS = false
+            local isControllerAccelerate = false
+            local isControllerBrake = false
+            local isInstantBraking = false
+
+            runService.RenderStepped:Connect(function()
+                if car and car.PrimaryPart then
+                    local velocity = car.PrimaryPart.Velocity:Dot(car.PrimaryPart.CFrame.LookVector)
+                    
+                    if (isPressingW or isControllerAccelerate) and AccelerationEnabled then
+                        if velocity < 0 then
+                            force.Force = car.PrimaryPart.CFrame.LookVector * -speedhaxforce
+                        else
+                            force.Force = car.PrimaryPart.CFrame.LookVector * speedhaxforce
+                        end
+                    elseif (isPressingS or isControllerBrake) and DecelerationEnabled then
+                        if velocity > 0 then
+                            force.Force = car.PrimaryPart.CFrame.LookVector * -brakehaxforce
+                        else
+                            force.Force = car.PrimaryPart.CFrame.LookVector * brakehaxforce
+                        end
+                    elseif isInstantBraking then
+                        force.Force = Vector3.new(0, 0, 0)
+                    else
+                        force.Force = Vector3.new(0, 0, 0)
+                    end
+                end
+            end)
+
+            local function onInputBegan(input, gameProcessed)
+                if gameProcessed then return end
+                if input.KeyCode == accelKey then
+                    isPressingW = true
+                elseif input.KeyCode == decelKey then
+                    isPressingS = true
+                elseif instantBrakeKey and input.KeyCode == instantBrakeKey then
+                    isInstantBraking = true
+                elseif input.UserInputType == Enum.UserInputType.Gamepad1 then
+                    if input.KeyCode == Enum.KeyCode.ButtonR2 then 
+                        isControllerAccelerate = true
+                    elseif input.KeyCode == Enum.KeyCode.ButtonL2 then 
+                        isControllerBrake = true
+                    end
+                end
+            end
+
+            local function onInputEnded(input, gameProcessed)
+                if gameProcessed then return end
+                if input.KeyCode == accelKey then
+                    isPressingW = false
+                elseif input.KeyCode == decelKey then
+                    isPressingS = false
+                elseif instantBrakeKey and input.KeyCode == instantBrakeKey then
+                    isInstantBraking = false
+                elseif input.UserInputType == Enum.UserInputType.Gamepad1 then
+                    if input.KeyCode == Enum.KeyCode.ButtonR2 then 
+                        isControllerAccelerate = false
+                    elseif input.KeyCode == Enum.KeyCode.ButtonL2 then 
+                        isControllerBrake = false
+                    end
+                end
+            end
+
+            userInputService.InputBegan:Connect(onInputBegan)
+            userInputService.InputEnded:Connect(onInputEnded)
+        else
+            Rayfield:Notify({
+                Title = "No Car Found!",
+                Content = "Couldn't find any car nearby to inject hacks into.",
+                Duration = 3,
+                Actions = {}
+            })
+        end
+    end
+})
+
+PlayerTab:CreateDivider()
+PlayerTab:CreateSection("Name")
+
+local function createNameTag(character, nameText)
+    local head = character:FindFirstChild("Head")
+    if not head then return end
+
+    local existingTag = head:FindFirstChild("CustomNameTag")
+    if existingTag then existingTag:Destroy() end
+
+    if nameText ~= "" then
+        local billboard = Instance.new("BillboardGui")
+        billboard.Name = "CustomNameTag"
+        billboard.Parent = head
+        billboard.Size = UDim2.new(4, 0, 1, 0)
+        billboard.StudsOffset = Vector3.new(0, 2, 0)
+        billboard.AlwaysOnTop = true
+
+        local textLabel = Instance.new("TextLabel")
+        textLabel.Parent = billboard
+        textLabel.Size = UDim2.new(1, 0, 1, 0)
+        textLabel.BackgroundTransparency = 1
+        textLabel.TextScaled = true
+        textLabel.Font = Enum.Font.GothamSemibold
+        textLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+        textLabel.TextStrokeTransparency = 0.5
+        textLabel.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+        textLabel.Text = nameText
+    end
+end
+
+PlayerTab:CreateInput({
+    Name = "Change Nametag",
+    PlaceholderText = "Enter new name",
+    RemoveTextAfterFocusLost = false,
+    Callback = function(Value)
+        local player = game.Players.LocalPlayer
+        local character = player.Character
+        if character then
+            local humanoid = character:FindFirstChildOfClass("Humanoid")
+            if humanoid then
+                humanoid.DisplayName = Value 
+                createNameTag(character, Value) 
+            end
+        end
+    end
+})
+
+--
+
+local FakeDisplay = ""
+PlayerTab:CreateInput({
+    Name = "New Display Name",
+    PlaceholderText = "Enter new display name...",
+    RemoveTextAfterFocusLost = false,
+    Callback = function(Name)
+        FakeDisplay = Name
+    end
+})
+
+local function ChangeLeaderboardName()
+    local Players = game:GetService("Players")
+    local LocalPlayer = Players.LocalPlayer
+
+    task.spawn(function()
+        while true do
+            for _, obj in pairs(game.CoreGui:GetDescendants()) do
+                if obj:IsA("TextLabel") and obj.Text == LocalPlayer.Name then
+                    obj.Text = FakeDisplay 
+                end
+            end
+            task.wait(1) 
+        end
+    end)
+end
+
+PlayerTab:CreateButton({
+    Name = "Apply Display Name",
+    Callback = function()
+        local Players = game:GetService("Players")
+        local LocalPlayer = Players.LocalPlayer
+        local ChatService = game:GetService("StarterGui")
+        ChatService:SetCore("ChatMakeSystemMessage", {
+            Text = "Your username is now '" .. FakeDisplay .. "' (Client-Side)";
+            Color = Color3.fromRGB(0, 255, 0);
+        })
+
+        ChangeLeaderboardName()
+
+        Rayfield:Notify({
+            Title = "Display Name Changed!",
+            Content = "Your display name is now '" .. FakeDisplay .. "' (Client-Sided).",
+            Duration = 5,
+            Actions = { Ignore = { Name = "OK", Callback = function() end } }
+        })
+    end
+})
+
+PlayerTab:CreateButton({
+    Name = "Reset Display Name",
+    Callback = function()
+        Running = false 
+        local Players = game:GetService("Players")
+        local LocalPlayer = Players.LocalPlayer
+        task.spawn(function()
+            for _, obj in pairs(game.CoreGui:GetDescendants()) do
+                if obj:IsA("TextLabel") and obj.Text == FakeDisplay then
+                    obj.Text = LocalPlayer.Name 
+                end
+            end
+        end)
+        local ChatService = game:GetService("StarterGui")
+        ChatService:SetCore("ChatMakeSystemMessage", {
+            Text = "Your username has been reset to '" .. LocalPlayer.Name .. "'",
+            Color = Color3.fromRGB(255, 0, 0);
+        })
+
+        Rayfield:Notify({
+            Title = "Display Name Reset!",
+            Content = "Your display name has been restored to '" .. LocalPlayer.Name .. "'.",
+            Duration = 5,
+            Actions = { Ignore = { Name = "OK", Callback = function() end } }
+        })
+    end
+})
+
+----
+
+local SpectateSection = PlayerTab:CreateSection("Spectate")
+local spectatePlayer = ""
+
+local function findClosestUsername(input)
+    input = input:lower()
+    for _, player in ipairs(game.Players:GetPlayers()) do
+        if player.Name:lower():sub(1, #input) == input then
+            return player.Name
+        end
+    end
+    return nil
+end
+
+PlayerTab:CreateInput({
+    Name = "Spectate Player",
+    PlaceholderText = "Enter Username",
+    Flag = "SpectateInput",
+    Callback = function(Value)
+        spectatePlayer = findClosestUsername(Value) or Value
+
+        if spectatePlayer == "" then
+            game.Workspace.CurrentCamera.CameraSubject = game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+            return
+        end
+        
+        local targetPlayer = game.Players:FindFirstChild(spectatePlayer)
+        if targetPlayer then
+            game.Workspace.CurrentCamera.CameraSubject = targetPlayer.Character:FindFirstChild("Humanoid")
+        else
+            Rayfield:Notify({
+                Title = "Spectate Error",
+                Content = "Player not found!",
+                Duration = 5,
+            })
+        end
+    end
+})
+
+---------------------------------------------------------------
+
+AutofarmTab:CreateDivider()
+
+-- Find the nearest car in SessionVehicles within 10 studs
+local function FindNearestVehicle()
+    local player = game.Players.LocalPlayer
+    if not player or not player.Character or not player.Character:FindFirstChild("HumanoidRootPart") then
+        return nil
+    end
+
+    local rootPos = player.Character.HumanoidRootPart.Position
+    local nearestCar = nil
+    local shortestDistance = 10 -- max range in studs
+
+    for _, car in pairs(workspace.SessionVehicles:GetChildren()) do
+        if car:IsA("Model") and car.PrimaryPart then
+            local distance = (car.PrimaryPart.Position - rootPos).Magnitude
+            if distance < shortestDistance then
+                nearestCar = car
+                shortestDistance = distance
+            end
+        end
+    end
+
+    return nearestCar
+end
+
+-- Toggle UI callback
+AutofarmTab:CreateToggle({
+    Name = "(In Dev) Driving Autofarm",
+    CurrentValue = false,
+    Flag = "ToggleAutofarm",
+    Callback = function(Value)
+        Autofarm = Value
+        local player = game.Players.LocalPlayer
+
+        if Autofarm then
+            player.Team = game.Teams:FindFirstChild("Allen Insurance Agent")
+            Rayfield:Notify({
+                Title = "Autofarm Enabled",
+                Content = "Driving Autofarm is now active! Please use a private server for less chance of ban!",
+                Duration = 3
+            })
+
+            local vehicle = FindNearestVehicle()
+            if not vehicle then
+                Rayfield:Notify({
+                    Title = "No Vehicle Found",
+                    Content = "No vehicle found within 10 studs.",
+                    Duration = 3
+                })
+                return
+            end
+
+            local startPosition = Vector3.new(593.8524780273438, -79.48839569091797, -10894.6806640625)
+            local endPosition = Vector3.new(6922.5556640625, -79.2073974609375, -11567.57421875)
+            local speed = 98
+
+            vehicle:SetPrimaryPartCFrame(CFrame.new(startPosition) * CFrame.Angles(0, math.rad(90), 0))
+
+            local bodyVelocity = Instance.new("BodyVelocity")
+            bodyVelocity.MaxForce = Vector3.new(100000, 100000, 100000)
+            bodyVelocity.Velocity = Vector3.new(0, 0, 0)
+            bodyVelocity.Parent = vehicle.PrimaryPart
+
+            local targetPos = endPosition
+
+            while Autofarm do
+                while (vehicle.PrimaryPart.Position - targetPos).Magnitude > 1 and Autofarm do
+                    local direction = (targetPos - vehicle.PrimaryPart.Position).Unit
+                    bodyVelocity.Velocity = direction * speed
+                    wait(0.02)
+                    local finalPosition = Vector3.new(vehicle.PrimaryPart.Position.X, -80, vehicle.PrimaryPart.Position.Z)
+                    vehicle:SetPrimaryPartCFrame(CFrame.new(finalPosition) * CFrame.Angles(0, math.rad(90), 0))
+                end
+                targetPos = (targetPos == startPosition) and endPosition or startPosition
+            end
+
+            bodyVelocity:Destroy()
+        else
+            player.Team = game.Teams:FindFirstChild("Unemployed")
+            Rayfield:Notify({
+                Title = "Autofarm Disabled",
+                Content = "Driving Autofarm is now disabled.",
+                Duration = 3
+            })
+        end
+    end
+})
+
+
+AutofarmTab:CreateToggle({
+    Name = "Anti-AFK",
+    CurrentValue = false,
+    Flag = "AntiAFK",
+    Callback = function(Value)
+        local enabled = Value
+        local function nudge()
+            local hrp = game.Players.LocalPlayer.Character and game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+            if hrp then
+                hrp.CFrame = hrp.CFrame + hrp.CFrame.LookVector * 0.1
+            end
+        end
+        if enabled then
+            nudge()
+            while enabled and task.wait(900) do
+                if not enabled then break end
+                nudge()
+            end
+        end
+    end,
+})
+
+---------------------------------------------------------------
+
+GriefTab:CreateDivider()
+local Section = GriefTab:CreateSection("Spin")
+local rotationSpeed = 5 
+local carToSpin = nil
+local spinning = false 
+
+local function findClosestUsername(partialUsername)
+    for _, car in pairs(game.Workspace.SessionVehicles:GetChildren()) do
+        local fullUsername = car.Name:match("(.-)-Car")
+        if fullUsername and fullUsername:lower():find(partialUsername:lower(), 1, true) then
+            return fullUsername
+        end
+    end
+    return nil
+end
+
+local function findCarFromUsername(username)
+    local matchedUsername = findClosestUsername(username) or username
+    return game.Workspace.SessionVehicles:FindFirstChild(matchedUsername .. "-Car")
+end
+
+local function stopSpinningCar()
+    spinning = false
+end
+
+local function spinLocalCar()
+    spinning = true
+    task.spawn(function()
+        while spinning do
+            if carToSpin and carToSpin.PrimaryPart then
+                carToSpin:SetPrimaryPartCFrame(carToSpin.PrimaryPart.CFrame * CFrame.Angles(0, math.rad(rotationSpeed), 0))
+            end
+            task.wait()
+        end
+    end)
+end
+
+GriefTab:CreateInput({
+    Name = "Enter Username",
+    PlaceholderText = "Enter username",
+    TextDisappear = true,
+    Callback = function(username)
+        local car = findCarFromUsername(username)
+        
+        if car and car.PrimaryPart then
+            carToSpin = car
+            Rayfield:Notify({
+                Title = "Car Found!",
+                Content = "Found the car of " .. car.Name:gsub("%-Car", "") .. "!",
+                Duration = 3,
+                Actions = {}
+            })
+        else
+            Rayfield:Notify({
+                Title = "Car Not Found!",
+                Content = "Couldn't find the car of " .. username .. " in SessionVehicles.",
+                Duration = 3,
+                Actions = {}
+            })
+        end
+    end
+})
+
+GriefTab:CreateToggle({
+    Name = "Spin Car",
+    CurrentValue = false,
+    Callback = function(value)
+        if carToSpin then
+            if value then
+                spinLocalCar()
+            else
+                stopSpinningCar()
+            end
+        else
+            Rayfield:Notify({
+                Title = "Error",
+                Content = "Please enter a valid username first.",
+                Duration = 3,
+                Actions = {}
+            })
+        end
+    end
+})
+
+GriefTab:CreateSlider({
+    Name = "Spin Speed",
+    Range = {1, 50},
+    Increment = 1,
+    Suffix = "Speed",
+    CurrentValue = rotationSpeed,
+    Flag = "CarRotationSpeed",
+    Callback = function(Value)
+        rotationSpeed = Value
+    end
+})
+
+---
+
+local Section = GriefTab:CreateSection("Fling")
+
+local flingHeight = 500
+local flingRadius = 50
+local carToFling = nil
+
+local function findClosestUsername(partialUsername)
+    for _, car in pairs(game.Workspace.SessionVehicles:GetChildren()) do
+        local fullUsername = car.Name:match("(.-)-Car")
+        if fullUsername and fullUsername:lower():find(partialUsername:lower(), 1, true) then
+            return fullUsername
+        end
+    end
+    return nil
+end
+
+local function findCarFromUsername(username)
+    local matchedUsername = findClosestUsername(username) or username
+    return game.Workspace.SessionVehicles:FindFirstChild(matchedUsername .. "-Car")
+end
+
+local function flingCar(car)
+    if car and car.PrimaryPart then
+        local player = game.Players.LocalPlayer
+        if not player or not player.Character or not player.Character:FindFirstChild("HumanoidRootPart") then
+            return
+        end
+        
+        local rootPos = player.Character.HumanoidRootPart.Position
+        local carPos = car.PrimaryPart.Position
+        
+        local direction = (carPos - rootPos).unit * -flingRadius
+        local velocity = direction + Vector3.new(0, flingHeight, 0)
+        
+        local carFling = Instance.new("BodyVelocity")
+        carFling.Velocity = velocity
+        carFling.MaxForce = Vector3.new(1e9, 1e9, 1e9)
+        carFling.Parent = car.PrimaryPart
+        task.wait(0.3)
+        carFling:Destroy()
+    end
+end
+
+local function flingTargetCar()
+    if carToFling and carToFling.PrimaryPart then
+        flingCar(carToFling)
+    else
+        Rayfield:Notify({
+            Title = "Error",
+            Content = "No car found for the entered username.",
+            Duration = 3,
+            Actions = {}
+        })
+    end
+end
+
+local function flingNearbyCars()
+    local player = game.Players.LocalPlayer
+    if not player or not player.Character or not player.Character:FindFirstChild("HumanoidRootPart") then
+        return
+    end
+
+    local rootPos = player.Character.HumanoidRootPart.Position
+    local carsFlinged = 0
+
+    for _, car in pairs(game.Workspace.SessionVehicles:GetChildren()) do
+        if car:IsA("Model") and car.PrimaryPart then
+            local dist = (car.PrimaryPart.Position - rootPos).Magnitude
+            if dist <= flingRadius then
+                flingCar(car)
+                carsFlinged += 1
+            end
+        end
+    end
+
+    Rayfield:Notify({
+        Title = "Fling Complete",
+        Content = "Flinged " .. carsFlinged .. " car(s) within " .. flingRadius .. " studs!",
+        Duration = 3,
+        Actions = {}
+    })
+end
+
+GriefTab:CreateInput({
+    Name = "Enter Username",
+    PlaceholderText = "Enter username",
+    TextDisappear = true,
+    Callback = function(username)
+        local car = findCarFromUsername(username)
+        
+        if car and car.PrimaryPart then
+            carToFling = car
+            Rayfield:Notify({
+                Title = "Car Found!",
+                Content = "Found the car of " .. car.Name:gsub("%-Car", "") .. "!",
+                Duration = 3,
+                Actions = {}
+            })
+        else
+            Rayfield:Notify({
+                Title = "Car Not Found!",
+                Content = "Couldn't find the car of " .. username,
+                Duration = 3,
+                Actions = {}
+            })
+        end
+    end
+})
+
+GriefTab:CreateSlider({
+    Name = "Fling Strength",
+    Range = {100, 2000},
+    Increment = 50,
+    Suffix = "Force",
+    CurrentValue = flingHeight,
+    Callback = function(value)
+        flingHeight = value
+    end
+})
+
+GriefTab:CreateSlider({
+    Name = "Fling Radius",
+    Range = {10, 500},
+    Increment = 10,
+    Suffix = "Studs",
+    CurrentValue = flingRadius,
+    Callback = function(value)
+        flingRadius = value
+    end
+})
+
+GriefTab:CreateButton({
+    Name = "Fling Target Player's Car",
+    Callback = function()
+        flingTargetCar()
+    end
+})
+
+GriefTab:CreateButton({
+    Name = "Fling Nearby Cars",
+    Callback = function()
+        flingNearbyCars()
+    end
+})
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local Mouse = LocalPlayer:GetMouse()
+local ToolName = "FlingGun"
+local tool = nil
+
+GriefTab:CreateToggle({
+    Name = "Fling Gun",
+    CurrentValue = false,
+    Callback = function(enabled)
+        if enabled then
+            local tool = Instance.new("Tool")
+            tool.RequiresHandle = false
+            tool.Name = ToolName
+            tool.CanBeDropped = false
+            tool.Activated:Connect(function()
+                local target = Mouse.Target
+                if not target then return end
+                local model = target:FindFirstAncestorOfClass("Model")
+                if model and model:IsDescendantOf(workspace.SessionVehicles) then
+                    local primary = model.PrimaryPart or model:FindFirstChildWhichIsA("BasePart")
+                    if primary then
+                        local fling = Instance.new("BodyVelocity")
+                        fling.Velocity = Vector3.new(0, 250, 0)
+                        fling.MaxForce = Vector3.new(1e9, 1e9, 1e9)
+                        fling.Parent = primary
+                        task.wait(0.3)
+                        fling:Destroy()
+                    end
+                end
+            end)
+            tool.Parent = LocalPlayer.Backpack
+        else
+            local existing = LocalPlayer.Backpack:FindFirstChild(ToolName) or LocalPlayer.Character:FindFirstChild(ToolName)
+            if existing then existing:Destroy() end
+        end
+    end,
+})
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local Mouse = LocalPlayer:GetMouse()
+local Camera = workspace.CurrentCamera
+local ToolName = "TelekinesisGun"
+local isHolding = false
+local heldCar = nil
+local bodyPosition = nil
+local bodyVelocity = nil
+local forceSlider = 500
+
+GriefTab:CreateToggle({
+    Name = "Telekinesis Gun",
+    CurrentValue = false,
+    Callback = function(enabled)
+        if enabled then
+            local tool = Instance.new("Tool")
+            tool.RequiresHandle = false
+            tool.Name = ToolName
+            tool.CanBeDropped = false
+            tool.Activated:Connect(function()
+                if isHolding then
+                    if heldCar then
+                        bodyPosition:Destroy()
+                        bodyVelocity:Destroy()
+                    end
+                    isHolding = false
+                    heldCar = nil
+                    bodyPosition = nil
+                    bodyVelocity = nil
+                else
+                    local mousePos = Mouse.Hit.Position
+                    local origin = Camera.CFrame.Position
+                    local direction = (mousePos - origin).Unit * 500
+
+                    local rayParams = RaycastParams.new()
+                    rayParams.FilterDescendantsInstances = {LocalPlayer.Character}
+                    rayParams.FilterType = Enum.RaycastFilterType.Blacklist
+                    rayParams.IgnoreWater = true
+
+                    local result = workspace:Raycast(origin, direction, rayParams)
+                    if result and result.Instance then
+                        local model = result.Instance:FindFirstAncestorOfClass("Model")
+                        if model and model:IsDescendantOf(workspace.SessionVehicles) then
+                            local primary = model.PrimaryPart or model:FindFirstChildWhichIsA("BasePart")
+                            if primary then
+                                isHolding = true
+                                heldCar = model
+                                bodyPosition = Instance.new("BodyPosition")
+                                bodyVelocity = Instance.new("BodyVelocity")
+
+                                bodyPosition.MaxForce = Vector3.new(1e9, 1e9, 1e9)
+                                bodyVelocity.MaxForce = Vector3.new(1e9, 1e9, 1e9)
+
+                                -- Adjust P and D values for smooth movement
+                                bodyPosition.P = forceSlider * 2  -- Lower P for easier control and smoother follow
+                                bodyPosition.D = 300  -- Decreased D for more fluidity and less resistance
+                                
+                                -- Apply smaller vertical velocity to avoid fling and keep the car closer
+                                bodyVelocity.Velocity = Vector3.new(0, 300, 0)  -- Adjusted vertical force for smooth lifting
+                                
+                                bodyPosition.Parent = primary
+                                bodyVelocity.Parent = primary
+                            end
+                        end
+                    end
+                end
+            end)
+
+            Mouse.Button1Down:Connect(function()
+                if isHolding and heldCar then
+                    local primary = heldCar.PrimaryPart
+                    if bodyPosition then
+                        bodyPosition.Position = Mouse.Hit.p
+                    end
+                    if bodyVelocity then
+                        -- Apply a lighter horizontal force to follow the mouse with smoothness
+                        bodyVelocity.Velocity = (Mouse.Hit.p - primary.Position).unit * forceSlider * 0.3  -- Lower horizontal force
+                    end
+                end
+            end)
+
+            Mouse.Button1Up:Connect(function()
+                if isHolding and heldCar then
+                    if bodyPosition then
+                        bodyPosition:Destroy()
+                    end
+                    if bodyVelocity then
+                        bodyVelocity:Destroy()
+                    end
+                    isHolding = false
+                    heldCar = nil
+                    bodyPosition = nil
+                    bodyVelocity = nil
+                end
+            end)
+
+            tool.Parent = LocalPlayer.Backpack
+        else
+            local existing = LocalPlayer.Backpack:FindFirstChild(ToolName) or LocalPlayer.Character:FindFirstChild(ToolName)
+            if existing then existing:Destroy() end
+        end
+    end,
+})
+
+GriefTab:CreateSlider({
+    Name = "Telekenisis Force",
+    Range = {100, 1500},
+    Increment = 100,
+    Suffix = "Force",
+    CurrentValue = 1,
+    Callback = function(value)
+        forceSlider = value
+    end
+})
+
+--
+
+local Section = GriefTab:CreateSection("Misc")
+GriefTab:CreateLabel("Go next to a car and click any of these buttons!")
+
+GriefTab:CreateButton({
+    Name = "Goofy Wheels",
+    Callback = function()
+        for _, player in ipairs(game.Players:GetPlayers()) do
+            print(player.Name)
+            local PlayerCar = workspace.SessionVehicles:FindFirstChild(player.Name .. "-Car")
+            if PlayerCar then
+                local Wheels = PlayerCar:FindFirstChild("Wheels")
+                if Wheels then
+                    for _, wheel in ipairs(Wheels:GetChildren()) do
+                        local spring = wheel:FindFirstChild("Spring")
+                        if spring then
+                            spring.MinLength = 5
+                            spring.MaxLength = 15
+                            print(wheel.Name)
+                        end
+                    end
+                end
+            end
+        end
+    end
+})
+
+GriefTab:CreateButton({
+    Name = "Break Car Seat",
+    Callback = function()
+        for _, player in ipairs(game.Players:GetPlayers()) do
+            print(player.Name)
+            local PlayerCar = workspace.SessionVehicles:FindFirstChild(player.Name .. "-Car")
+            if PlayerCar then
+                local seat = PlayerCar:FindFirstChild("DriveSeat")
+                if seat then
+                    seat:Destroy()
+                end
+            end
+        end
+    end
+})
+
+GriefTab:CreateButton({
+    Name = "Break Car",
+    Callback = function()
+        for _, player in ipairs(game.Players:GetPlayers()) do
+            print(player.Name)
+            local PlayerCar = workspace.SessionVehicles:FindFirstChild(player.Name .. "-Car")
+            if PlayerCar then
+                local Wheels = PlayerCar:FindFirstChild("Wheels")
+                if Wheels then
+                    for _, wheel in ipairs(Wheels:GetChildren()) do
+                        local spring = wheel:FindFirstChild("Spring")
+                        if spring then
+                            spring.MinLength = 15
+                            spring.MaxLength = 30
+                            print(wheel.Name)
+                        end
+                    end
+                end
+            end
+        end
+    end
+})
+
+-------------------------------------------------------------
+
+local Section = PlayerTab:CreateSection("Greenville Radios")
+
+PlayerTab:CreateToggle({
+    Name = "KISS",
+    CurrentValue = false,
+    Flag = "SoundToggle",
+    Callback = function(Value)
+        if Value then
+            Sound.SoundId = "rbxassetid://1841361344" 
+            Sound:Play()
+        else
+            Sound:Stop()
+        end
+    end
+})
+
+PlayerTab:CreateToggle({
+    Name = "THE JAM",
+    CurrentValue = false,
+    Flag = "SoundToggle",
+    Callback = function(Value)
+        if Value then
+            Sound.SoundId = "rbxassetid://10017012450" 
+            Sound:Play()
+        else
+            Sound:Stop()
+        end
+    end
+})
+
+PlayerTab:CreateToggle({
+    Name = "WAPL",
+    CurrentValue = false,
+    Flag = "SoundToggle",
+    Callback = function(Value)
+        if Value then
+            Sound.SoundId = "rbxassetid://133789068081968" 
+            Sound:Play()
+        else
+            Sound:Stop()
+        end
+    end
+})
+
+PlayerTab:CreateToggle({
+    Name = "WFZZ",
+    CurrentValue = false,
+    Flag = "SoundToggle",
+    Callback = function(Value)
+        if Value then
+            Sound.SoundId = "rbxassetid://5410083912" 
+            Sound:Play()
+        else
+            Sound:Stop()
+        end
+    end
+})
+
+PlayerTab:CreateToggle({
+    Name = "WVBO",
+    CurrentValue = false,
+    Flag = "SoundToggle",
+    Callback = function(Value)
+        if Value then
+            Sound.SoundId = "rbxassetid://1840251508" 
+            Sound:Play()
+        else
+            Sound:Stop()
+        end
+    end
+})
+
+PlayerTab:CreateToggle({
+    Name = "Y100",
+    CurrentValue = false,
+    Flag = "SoundToggle",
+    Callback = function(Value)
+        if Value then
+            Sound.SoundId = "rbxassetid://1847272328" 
+            Sound:Play()
+        else
+            Sound:Stop()
+        end
+    end
+})
+
+
+print(' Logged In!')
+print(' User Data')
+print(' Username:' .. data.info.username)
+print(' IP Address:' .. data.info.ip)
+print(' Created at:' .. data.info.createdate)
+print(' Last login at:' .. data.info.lastlogin)
