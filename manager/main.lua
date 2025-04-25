@@ -1,30 +1,60 @@
-if game.PlaceId == (891852901) then
+if game.PlaceId == (18722757961) then
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
-Title = "Quantum";
-Text = "Greenville";
-Duration = 4;
-})
-wait(5)
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/paidscripts/Greenville.lua'),true))()
-
-elseif game.PlaceId == (18722757961) then
-wait(1.2)
-game.StarterGui:SetCore("SendNotification", {
-Title = "Quantum";
-Text = "Ragblood";
+Title = "Welcome";
+Text = "Quantum successfully loaded.";
 Duration = 4;
 })
 wait(5)
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/freescripts/Ragblood.lua'),true))()
 
-elseif game.PlaceId == (4637668954) then
+elseif game.PlaceId == (891852901) then
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
-Title = "Quantum";
-Text = "Rensselaer County";
+Title = "Welcome";
+Text = "Quantum successfully loaded.";
 Duration = 4;
 })
 wait(5)
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/paidscripts/RensselaerCounty.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/paidscripts/Greenville.lua'),true))()
+
+elseif game.PlaceId == (8416011646) then
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Welcome";
+Text = "Quantum successfully loaded.";
+Duration = 4;
+})
+wait(5)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/freescripts/MapleCounty.lua'),true))()
+
+elseif game.PlaceId == (4637668954) then
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Welcome";
+Text = "Quantum successfully loaded.";
+Duration = 4;
+})
+wait(5)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/freescripts/RensselaerCounty.lua'),true))()
+
+elseif game.PlaceId == (87720117989607) then
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Welcome";
+Text = "Quantum successfully loaded.";
+Duration = 4;
+})
+wait(5)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/paidscripts/Ridgewood.lua'),true))()
+
+elseif game.PlaceId == (5104202731) then
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Welcome";
+Text = "Quantum successfully loaded.";
+Duration = 4;
+})
+wait(5)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/paidscripts/SouthwestFlorida.lua'),true))()
 end
