@@ -28,6 +28,16 @@ Duration = 4;
 wait(5)
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/freescripts/MapleCounty.lua'),true))()
 
+elseif game.PlaceId == (2534724415) then
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Welcome";
+Text = "Quantum successfully loaded.";
+Duration = 4;
+})
+wait(5)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/2kemmz/Quantum/refs/heads/main/freescripts/EmergencyResponse.lua'),true))()
+
 elseif game.PlaceId == (4637668954) then
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
